@@ -5,9 +5,11 @@ I have grown up with dogs, rabbits, fish and a lizard. I am currently working as
 
 - **What kind of pet/s am I looking for?**
 
-  - **Type:** Dog or Cat
-  - **Age:** Any
-  - **Size:** Small or Medium
+|Category|Preference|
+|--------|--------|
+|Type|Dog or Cat|
+|Age|Any|
+|Size|Small or Medium|
 
 - **How many pets am I looking for?**
 
