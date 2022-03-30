@@ -1,4 +1,5 @@
 git add ../Project1_Folder
+git status
 echo "Please leave commit message: "
 read commitMsg
 git commit -m "$commitMsg"
