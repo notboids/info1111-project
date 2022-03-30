@@ -1,0 +1,1 @@
+git pull git@github.com:notboids/info1111-project.git
