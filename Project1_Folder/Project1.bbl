@@ -24,6 +24,30 @@ isaac3}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Mauricio Lopez}%
+}{%
+{Mauricio Lopez}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky1}
+\APACinsertmetastar {%
+ky1}%
+\begin{APACrefauthors}%
+{Mauricio Lopez}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} 6 Reasons C++ Is Still In Use Today.} {{APA} 6 reasons
+  c++ is still in use today.}
+\newblock
+\APACrefnote{See
+  \url{https://www.jobsity.com/blog/6-reasons-c-is-still-in-use-today}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Patrick Grieve}%
 }{%
 {Patrick Grieve}%
