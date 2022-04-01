@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+{Ram Dewani}%
+}{%
+{Ram Dewani}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+apa6}
+\APACinsertmetastar {%
+apa6}%
+\begin{APACrefauthors}%
+{Ram Dewani}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} 14 Must-Have Skills to Become a Data Scientist (6th
+  Edition).} {{APA} 14 must-have skills to become a data scientist (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.analyticsvidhya.com/blog/2020/11/14-must-have-skills-
+  to-become-a-data-scientist-with-resources/}}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
