@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.1)  1 APR 2022 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.1)  1 APR 2022 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -290,11 +290,7 @@ LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
 (Font)              size <12> substituted on input line 62.
 
-[2]
-
-LaTeX Warning: Citation `ky1' undefined on input line 98.
-
-[3] [4] [5] [6] [7] [8] (Project1.bbl
+[2] [3] [4] [5] [6] [7] [8] (Project1.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 3.
 
@@ -307,72 +303,78 @@ Underfull \hbox (badness 5878) in paragraph at lines 14--25
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--50
+Underfull \hbox (badness 2229) in paragraph at lines 37--49
+[]\T1/cmr/m/n/10.95 Mauricio Lopez.  (2021).  \T1/cmr/m/it/10.95 APA 6 rea-sons
+ c++ is still in use to-day.  \T1/cmr/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--74
 []\T1/cmr/m/n/10.95 Patrick Grieve.  (2022).  \T1/cmr/m/it/10.95 APA deep learn
 -ing vs. ma-chine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--50
+Underfull \hbox (badness 10000) in paragraph at lines 61--74
 \T1/cmr/m/it/10.95 learn-ing: What's the dif-fer-ence? (6th edi-tion).  \T1/cmr
 /m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--76
+Underfull \hbox (badness 10000) in paragraph at lines 86--100
 \T1/cmr/m/n/10.95 (See \T1/cmtt/m/n/10.95 https://www.analyticsvidhya.com/blog/
 2020/11/14-must-have-skills-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--103
+Underfull \hbox (badness 10000) in paragraph at lines 112--127
 []\T1/cmr/m/n/10.95 Ronald Van Loon.  (2022).  \T1/cmr/m/it/10.95 APA the value
  of mas-ter-ing data vi-su-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--103
+Underfull \hbox (badness 10000) in paragraph at lines 112--127
 \T1/cmr/m/it/10.95 al-iza-tion and sto-ry-telling for data sci-en-tists (6th ed
 i-tion).  \T1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--103
+Underfull \hbox (badness 10000) in paragraph at lines 112--127
 \T1/cmtt/m/n/10.95 https://www.simplilearn.com/value-of-mastering-data-visualiz
 ation-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--151
+Underfull \hbox (badness 10000) in paragraph at lines 163--175
 []\T1/cmr/m/n/10.95 TechTarget.  (2022).  \T1/cmr/m/it/10.95 APA big data an-a-
 lyt-ics (6th edi-tion).  \T1/cmr/m/n/10.95 (See
  []
 
 
-Overfull \hbox (57.33304pt too wide) in paragraph at lines 139--151
+Overfull \hbox (57.33304pt too wide) in paragraph at lines 163--175
 \T1/cmtt/m/n/10.95 https://www.techtarget.com/searchbusinessanalytics/definitio
 n/big-data-analytics\T1/cmr/m/n/10.95 )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--151
+Underfull \hbox (badness 10000) in paragraph at lines 163--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--177
+Underfull \hbox (badness 10000) in paragraph at lines 187--201
 []\T1/cmr/m/n/10.95 University of Vir-ginia.  (2020).  \T1/cmr/m/it/10.95 APA h
 ow much do data sci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--177
+Underfull \hbox (badness 10000) in paragraph at lines 187--201
 \T1/cmr/m/it/10.95 en-tists need to know about statis-tics? (6th edi-tion).  \T
 1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--177
+Underfull \hbox (badness 10000) in paragraph at lines 187--201
 \T1/cmtt/m/n/10.95 https://datascience.virginia.edu/news/how-much-do-data-scien
 tists-
  []
@@ -384,15 +386,12 @@ tists-
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 3747 strings out of 478582
- 60175 string characters out of 2845761
- 383340 words of memory out of 3000000
- 21920 multiletter control sequences out of 15000+600000
+ 3748 strings out of 478582
+ 60183 string characters out of 2845761
+ 383443 words of memory out of 3000000
+ 21921 multiletter control sequences out of 15000+600000
  480446 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,829b,247s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -408,9 +407,9 @@ pen/ec/dpi600\ecbx2488.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
 nappen/ec/dpi600\ecbx1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbx2074.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project1.pdf (10 pages, 142143 bytes).
+Output written on Project1.pdf (10 pages, 143619 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
+ 398 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
