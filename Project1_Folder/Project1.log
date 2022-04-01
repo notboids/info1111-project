@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  1 APR 2022 10:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  1 APR 2022 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -294,14 +294,85 @@ LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
 
 [2] [3] [4] [5] [6] [7] (Project1.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-6.
+3.
 
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 14--28
+Underfull \hbox (badness 5878) in paragraph at lines 14--25
+[]\T1/cmr/m/n/10.95 chandan07.  (2021).  \T1/cmr/m/it/10.95 APA python for data
+ sci-ence (6th edi-tion).  \T1/cmr/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--50
+[]\T1/cmr/m/n/10.95 Patrick Grieve.  (2022).  \T1/cmr/m/it/10.95 APA deep learn
+-ing vs. ma-chine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--50
+\T1/cmr/m/it/10.95 learn-ing: What's the dif-fer-ence? (6th edi-tion).  \T1/cmr
+/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--76
 \T1/cmr/m/n/10.95 (See \T1/cmtt/m/n/10.95 https://www.analyticsvidhya.com/blog/
 2020/11/14-must-have-skills-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--103
+[]\T1/cmr/m/n/10.95 Ronald Van Loon.  (2022).  \T1/cmr/m/it/10.95 APA the value
+ of mas-ter-ing data vi-su-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--103
+\T1/cmr/m/it/10.95 al-iza-tion and sto-ry-telling for data sci-en-tists (6th ed
+i-tion).  \T1/cmr/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--103
+\T1/cmtt/m/n/10.95 https://www.simplilearn.com/value-of-mastering-data-visualiz
+ation-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--151
+[]\T1/cmr/m/n/10.95 TechTarget.  (2022).  \T1/cmr/m/it/10.95 APA big data an-a-
+lyt-ics (6th edi-tion).  \T1/cmr/m/n/10.95 (See
+ []
+
+
+Overfull \hbox (57.33304pt too wide) in paragraph at lines 139--151
+\T1/cmtt/m/n/10.95 https://www.techtarget.com/searchbusinessanalytics/definitio
+n/big-data-analytics\T1/cmr/m/n/10.95 )
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
+[]\T1/cmr/m/n/10.95 University of Vir-ginia.  (2020).  \T1/cmr/m/it/10.95 APA h
+ow much do data sci-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
+\T1/cmr/m/it/10.95 en-tists need to know about statis-tics? (6th edi-tion).  \T
+1/cmr/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--177
+\T1/cmtt/m/n/10.95 https://datascience.virginia.edu/news/how-much-do-data-scien
+tists-
  []
 
 ) [8
@@ -313,13 +384,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 3727 strings out of 478659
- 60176 string characters out of 2845920
- 388296 words of memory out of 3000000
- 21818 multiletter control sequences out of 15000+600000
+ 3745 strings out of 478659
+ 60344 string characters out of 2845920
+ 388890 words of memory out of 3000000
+ 21836 multiletter control sequences out of 15000+600000
  414617 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,795b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,62p,829b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecti1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
@@ -332,9 +403,9 @@ eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\yhkim\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\yhkim\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/yhkim/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project1.pdf (9 pages, 128256 bytes).
+Output written on Project1.pdf (9 pages, 134874 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
+ 382 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

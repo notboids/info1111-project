@@ -1,15 +1,63 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+{chandan07}%
+}{%
+{chandan07}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+isaac3}
+\APACinsertmetastar {%
+isaac3}%
+\begin{APACrefauthors}%
+{chandan07}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Python for Data Science (6th Edition).} {{APA} python for
+  data science (6th edition).}
+\newblock
+\APACrefnote{See \url{https://www.geeksforgeeks.org/python-for-data-science/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Patrick Grieve}%
+}{%
+{Patrick Grieve}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac5}
+\APACinsertmetastar {%
+isaac5}%
+\begin{APACrefauthors}%
+{Patrick Grieve}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} Deep learning vs. machine learning: What’s the
+  difference? (6th Edition).} {{APA} deep learning vs. machine learning:
+  What’s the difference? (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.zendesk.com/au/blog/machine-learning-and-deep-learning/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Ram Dewani}%
 }{%
 {Ram Dewani}%
 }{%
 {\protect \APACyear {2021}}%
 }]{%
-apa6}
+isaac1}
 \APACinsertmetastar {%
-apa6}%
+isaac1}%
 \begin{APACrefauthors}%
 {Ram Dewani}.%
 \end{APACrefauthors}%
@@ -24,6 +72,107 @@ apa6}%
 \APACrefnote{See
   \url{https://www.analyticsvidhya.com/blog/2020/11/14-must-have-skills-
   to-become-a-data-scientist-with-resources/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Ronald Van Loon}%
+}{%
+{Ronald Van Loon}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac7}
+\APACinsertmetastar {%
+isaac7}%
+\begin{APACrefauthors}%
+{Ronald Van Loon}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} The Value of Mastering Data Visualization and
+  Storytelling for Data Scientists (6th Edition).} {{APA} the value of
+  mastering data visualization and storytelling for data scientists (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.simplilearn.com/value-of-mastering-data-visualization-
+  storytelling-for-data-scientists-article}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Simplilearn}%
+}{%
+{Simplilearn}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+isaac4}
+\APACinsertmetastar {%
+isaac4}%
+\begin{APACrefauthors}%
+{Simplilearn}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} What Is Data Wrangling? Benefits, Tools, Examples and
+  Skills (6th Edition).} {{APA} what is data wrangling? benefits, tools,
+  examples and skills (6th edition).}
+\newblock
+\APACrefnote{See \url{https://www.simplilearn.com/data-wrangling-article}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{TechTarget}%
+}{%
+{TechTarget}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac6}
+\APACinsertmetastar {%
+isaac6}%
+\begin{APACrefauthors}%
+{TechTarget}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} Big Data Analytics (6th Edition).} {{APA} big data
+  analytics (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.techtarget.com/searchbusinessanalytics/definition/big-data-analytics}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{University of Virginia}%
+}{%
+{University of Virginia}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+isaac2}
+\APACinsertmetastar {%
+isaac2}%
+\begin{APACrefauthors}%
+{University of Virginia}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {{APA} How Much Do Data Scientists Need to Know about
+  Statistics? (6th Edition).} {{APA} how much do data scientists need to know
+  about statistics? (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://datascience.virginia.edu/news/how-much-do-data-scientists-
+  need-know-about-statistics}}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
