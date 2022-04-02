@@ -11,20 +11,30 @@
 \contentsline {subsubsection}{7. Big Data Anaylsis}{3}{}%
 \contentsline {subsubsection}{8. Story-telling Skill}{3}{}%
 \contentsline {subsubsection}{Teamwork}{3}{}%
-\contentsline {subsection}{\numberline {1.3.}Skills: add student 3 name here : Software Development}{4}{}%
-\contentsline {subsection}{\numberline {1.4.}Skills: add student 4 name here : Cyber Security}{4}{}%
-\contentsline {section}{\numberline {2.}Level 2: Basic Technology}{5}{}%
-\contentsline {subsection}{\numberline {2.1.}Tech Stack: add student 1 name here}{5}{}%
-\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{5}{}%
-\contentsline {subsection}{\numberline {2.3.}Tech Stack: add student 3 name here}{5}{}%
-\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{5}{}%
-\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{6}{}%
-\contentsline {subsection}{\numberline {3.1.}Advanced features: add student 1 name here}{6}{}%
-\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{6}{}%
-\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{6}{}%
-\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{6}{}%
-\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{7}{}%
-\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{7}{}%
-\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{7}{}%
-\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{7}{}%
-\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{7}{}%
+\contentsline {subsection}{\numberline {1.3.}Skills: Tan Ky Le : Software Development}{4}{}%
+\contentsline {subsubsection}{1.Programming languages}{4}{}%
+\contentsline {subsubsection}{1.Programming languages}{4}{}%
+\contentsline {subsubsection}{2.Debugging and testing}{4}{}%
+\contentsline {subsubsection}{3.Algorithms and data structures}{4}{}%
+\contentsline {subsubsection}{4.Version control tool (Git)}{4}{}%
+\contentsline {subsubsection}{5.Teamwork skills}{4}{}%
+\contentsline {subsubsection}{6.Time management}{5}{}%
+\contentsline {subsubsection}{7.Self-learning ability}{5}{}%
+\contentsline {subsubsection}{8.Logical thinking}{5}{}%
+\contentsline {subsection}{\numberline {1.4.}Skills: add student 4 name here : Cyber Security}{5}{}%
+\contentsline {section}{\numberline {2.}Level 2: Basic Technology}{6}{}%
+\contentsline {subsection}{\numberline {2.1.}Tech Stack: add student 1 name here}{6}{}%
+\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{6}{}%
+\contentsline {subsection}{\numberline {2.3.}Tech Stack: add student 3 name here}{6}{}%
+\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{6}{}%
+\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{7}{}%
+\contentsline {subsection}{\numberline {3.1.}Advanced features: add student 1 name here}{7}{}%
+\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{7}{}%
+\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{7}{}%
+\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{7}{}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{8}{}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{8}{}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{8}{}%
+\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{8}{}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{8}{}%
+\contentsline {chapter}{References}{9}{}%
