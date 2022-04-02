@@ -1,6 +1,31 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+{Anastasiia Lastovetska}%
+}{%
+{Anastasiia Lastovetska}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky7}
+\APACinsertmetastar {%
+ky7}%
+\begin{APACrefauthors}%
+{Anastasiia Lastovetska}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} How to Make an App Like Instagram: Tech Stack, Features,
+  Costs.} {{APA} how to make an app like instagram: Tech stack, features,
+  costs.}
+\newblock
+\APACrefnote{See
+  \url{https://mlsdev.com/blog/70-how-to-develop-an-app-like-instagram}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {chandan07}%
 }{%
 {chandan07}%
@@ -21,6 +46,106 @@ isaac3}%
   data science (6th edition).}
 \newblock
 \APACrefnote{See \url{https://www.geeksforgeeks.org/python-for-data-science/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Glassdoor Team}%
+}{%
+{Glassdoor Team}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky2}
+\APACinsertmetastar {%
+ky2}%
+\begin{APACrefauthors}%
+{Glassdoor Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Top Software Engineer Skills to Impress Employers.}
+  {{APA} top software engineer skills to impress employers.}
+\newblock
+\APACrefnote{See
+  \url{https://www.glassdoor.com/blog/guide/software-engineer-skills}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Instagram Engineering}%
+}{%
+{Instagram Engineering}%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+ky5}
+\APACinsertmetastar {%
+ky5}%
+\begin{APACrefauthors}%
+{Instagram Engineering}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} Instagration Pt. 2: Scaling our infrastructure to
+  multiple data centers.} {{APA} instagration pt. 2: Scaling our infrastructure
+  to multiple data centers.}
+\newblock
+\APACrefnote{See
+  \url{https://instagram-engineering.com/instagration-pt-2-scaling-our-
+  infrastructure-to-multiple-data-centers-5745cbad7834}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Instagram Engineering}%
+}{%
+{Instagram Engineering}%
+}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+ky3}
+\APACinsertmetastar {%
+ky3}%
+\begin{APACrefauthors}%
+{Instagram Engineering}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} Web Service Efficiency at Instagram with Python.} {{APA}
+  web service efficiency at instagram with python.}
+\newblock
+\APACrefnote{See \url{https://instagram-engineering.com/web-service-efficiency
+  -at-instagram-with-python-4976d078e366}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Joab Jackson}%
+}{%
+{Joab Jackson}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+ky6}
+\APACinsertmetastar {%
+ky6}%
+\begin{APACrefauthors}%
+{Joab Jackson}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{APA} Instagram Supercharges Cassandra with a Pluggable RocksDB
+  Storage Engine.} {{APA} instagram supercharges cassandra with a pluggable
+  rocksdb storage engine.}
+\newblock
+\APACrefnote{See
+  \url{https://thenewstack.io/instagram-supercharges-cassandra-pluggable-
+  rocksdb-storage-engine}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -123,6 +248,29 @@ isaac7}%
 \APACrefnote{See
   \url{https://www.simplilearn.com/value-of-mastering-data-visualization-
   storytelling-for-data-scientists-article}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Shaini A Ravi}%
+}{%
+{Shaini A Ravi}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+ky4}
+\APACinsertmetastar {%
+ky4}%
+\begin{APACrefauthors}%
+{Shaini A Ravi}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {{APA} INSTAGRAM - Tech Stack.} {{APA} instagram - tech stack.}
+\newblock
+\APACrefnote{See
+  \url{https://medium.com/shaini4020/instagram-tech-stack-f19ddd4dcc0d}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
