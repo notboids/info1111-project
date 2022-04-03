@@ -26,6 +26,77 @@ ky7}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Anonyome Labs}%
+}{%
+{Anonyome Labs}%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+jake1}
+\APACinsertmetastar {%
+jake1}%
+\begin{APACrefauthors}%
+{Anonyome Labs}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APACrefbtitle {{APA} What Is Encryption and Why is it Important? (6th
+  Edition).} {{APA} what is encryption and why is it important? (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://anonyome.com/2020/01/what-is-encryption-and-why-is-it-important}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Auditboard}%
+}{%
+{Auditboard}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+jake4}
+\APACinsertmetastar {%
+jake4}%
+\begin{APACrefauthors}%
+{Auditboard}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} What Is a Security Audit? The Basics You Need to Get
+  Started (6th Edition).} {{APA} what is a security audit? the basics you need
+  to get started (6th edition).}
+\newblock
+\APACrefnote{See \url{https://www.auditboard.com/blog/what-is-security-audit}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Australian Cyber Security Centre}%
+}{%
+{Australian Cyber Security Centre}%
+}{%
+{\protect \APACyear {N/A}}%
+}]{%
+jake3}
+\APACinsertmetastar {%
+jake3}%
+\begin{APACrefauthors}%
+{Australian Cyber Security Centre}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{N/A}{}{}.
+\newblock
+\APACrefbtitle {{APA} Malware (6th Edition).} {{APA} malware (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.cyber.gov.au/acsc/view-all-content/threats/malware}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {chandan07}%
 }{%
 {chandan07}%
@@ -46,6 +117,79 @@ isaac3}%
   data science (6th edition).}
 \newblock
 \APACrefnote{See \url{https://www.geeksforgeeks.org/python-for-data-science/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Chris Denny}%
+}{%
+{Chris Denny}%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+jake7}
+\APACinsertmetastar {%
+jake7}%
+\begin{APACrefauthors}%
+{Chris Denny}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+\APACrefbtitle {{APA} 9 Great Attention To Detail Quotes (6th Edition).} {{APA}
+  9 great attention to detail quotes (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://attentiontodetail.com/2018/09/19/9-great-attention-to-detail-quotes}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{CISA}%
+}{%
+{CISA}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+jake2}
+\APACinsertmetastar {%
+jake2}%
+\begin{APACrefauthors}%
+{CISA}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{APA} Understanding Firewalls for Home and Small Office Use
+  (6th Edition).} {{APA} understanding firewalls for home and small office use
+  (6th edition).}
+\newblock
+\APACrefnote{See \url{https://www.cisa.gov/uscert/ncas/tips/ST04-004}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Craig Stedman}%
+}{%
+{Craig Stedman}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+jake5}
+\APACinsertmetastar {%
+jake5}%
+\begin{APACrefauthors}%
+{Craig Stedman}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{APA} What is data management and why is it important? (6th
+  Edition).} {{APA} what is data management and why is it important? (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.techtarget.com/searchdatamanagement/definition/data-management}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -120,6 +264,30 @@ ky3}%
 \newblock
 \APACrefnote{See \url{https://instagram-engineering.com/web-service-efficiency
   -at-instagram-with-python-4976d078e366}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Interpol}%
+}{%
+{Interpol}%
+}{%
+{\protect \APACyear {N/A}}%
+}]{%
+jake6}
+\APACinsertmetastar {%
+jake6}%
+\begin{APACrefauthors}%
+{Interpol}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{N/A}{}{}.
+\newblock
+\APACrefbtitle {{APA} Digital forensics (6th Edition).} {{APA} digital
+  forensics (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.interpol.int/en/How-we-work/Innovation/Digital-forensics}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
