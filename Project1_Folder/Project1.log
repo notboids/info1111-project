@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  13 APR 2022 04:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  28 APR 2022 21:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,7 +292,11 @@ LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
 (Font)              size <12> substituted on input line 62.
 
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] (Project1.bbl
+[2] [3] [4] [5] [6] [7] [8]
+
+LaTeX Warning: Citation `isaac8' undefined on input line 160.
+
+[9] [10] [11] [12] (Project1.bbl
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 5.
 
@@ -380,140 +384,146 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--194
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--244
+Underfull \hbox (badness 6125) in paragraph at lines 230--241
+[]\T1/cmr/m/n/10.95 IBM Cloud Ed-u-ca-tion.  (2019).  \T1/cmr/m/it/10.95 APA me
+an stack (6th edi-tion).  \T1/cmr/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--267
 []\T1/cmr/m/n/10.95 Instagram En-gi-neer-ing.  (2016a).  \T1/cmr/m/it/10.95 APA
  in-sta-gra-tion pt. 2: Scal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--244
+Underfull \hbox (badness 10000) in paragraph at lines 253--267
 \T1/cmr/m/it/10.95 ing our in-fras-truc-ture to mul-ti-ple data cen-ters.  \T1/
 cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--244
+Underfull \hbox (badness 10000) in paragraph at lines 253--267
 \T1/cmtt/m/n/10.95 https://instagram-engineering.com/instagration-pt-2-scaling-
 our-
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 256--268
+Underfull \hbox (badness 1210) in paragraph at lines 279--291
 []\T1/cmr/m/n/10.95 Instagram En-gi-neer-ing.  (2016b).  \T1/cmr/m/it/10.95 APA
  web ser-vice ef-fi-ciency at in-sta-gram with
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 256--268
+Underfull \hbox (badness 1902) in paragraph at lines 279--291
 \T1/cmr/m/it/10.95 python.  \T1/cmr/m/n/10.95 (See \T1/cmtt/m/n/10.95 https://i
 nstagram-engineering.com/web-service-efficiency
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--292
+Underfull \hbox (badness 10000) in paragraph at lines 303--315
 []\T1/cmr/m/n/10.95 Interpol.  (N/A).  \T1/cmr/m/it/10.95 APA dig-i-tal foren-s
 ics (6th edi-tion).  \T1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--318
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
 []\T1/cmr/m/n/10.95 Joab Jack-son.  (2018).  \T1/cmr/m/it/10.95 APA in-sta-gram
  su-per-charges cas-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--318
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
 \T1/cmr/m/it/10.95 san-dra with a plug-gable rocksdb stor-age en-gine.  \T1/cmr
 /m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--318
+Underfull \hbox (badness 10000) in paragraph at lines 327--341
 \T1/cmtt/m/n/10.95 https://thenewstack.io/instagram-supercharges-cassandra-plug
 gable-
  []
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 330--342
+Underfull \hbox (badness 2229) in paragraph at lines 353--365
 []\T1/cmr/m/n/10.95 Mauricio Lopez.  (2021).  \T1/cmr/m/it/10.95 APA 6 rea-sons
  c++ is still in use to-day.  \T1/cmr/m/n/10.95 (See
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--367
-[]\T1/cmr/m/n/10.95 Patrick Grieve.  (2022).  \T1/cmr/m/it/10.95 APA deep learn
--ing vs. ma-chine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--367
-\T1/cmr/m/it/10.95 learn-ing: What's the dif-fer-ence? (6th edi-tion).  \T1/cmr
-/m/n/10.95 (See
  []
 
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 379--393
+Underfull \hbox (badness 10000) in paragraph at lines 377--390
+[]\T1/cmr/m/n/10.95 Patrick Grieve.  (2022).  \T1/cmr/m/it/10.95 APA deep learn
+-ing vs. ma-chine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--390
+\T1/cmr/m/it/10.95 learn-ing: What's the dif-fer-ence? (6th edi-tion).  \T1/cmr
+/m/n/10.95 (See
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--416
 \T1/cmr/m/n/10.95 (See \T1/cmtt/m/n/10.95 https://www.analyticsvidhya.com/blog/
 2020/11/14-must-have-skills-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--420
+Underfull \hbox (badness 10000) in paragraph at lines 428--443
 []\T1/cmr/m/n/10.95 Ronald Van Loon.  (2022).  \T1/cmr/m/it/10.95 APA the value
  of mas-ter-ing data vi-su-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--420
+Underfull \hbox (badness 10000) in paragraph at lines 428--443
 \T1/cmr/m/it/10.95 al-iza-tion and sto-ry-telling for data sci-en-tists (6th ed
 i-tion).  \T1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 405--420
+Underfull \hbox (badness 10000) in paragraph at lines 428--443
 \T1/cmtt/m/n/10.95 https://www.simplilearn.com/value-of-mastering-data-visualiz
 ation-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--443
+Underfull \hbox (badness 10000) in paragraph at lines 455--466
 []\T1/cmr/m/n/10.95 Shaini A Ravi.  (2020).  \T1/cmr/m/it/10.95 APA in-sta-gram
  - tech stack.  \T1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--491
+Underfull \hbox (badness 10000) in paragraph at lines 502--514
 []\T1/cmr/m/n/10.95 TechTarget.  (2022).  \T1/cmr/m/it/10.95 APA big data an-a-
 lyt-ics (6th edi-tion).  \T1/cmr/m/n/10.95 (See
  []
 
 
-Overfull \hbox (57.33304pt too wide) in paragraph at lines 479--491
+Overfull \hbox (57.33304pt too wide) in paragraph at lines 502--514
 \T1/cmtt/m/n/10.95 https://www.techtarget.com/searchbusinessanalytics/definitio
 n/big-data-analytics\T1/cmr/m/n/10.95 )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--491
+Underfull \hbox (badness 10000) in paragraph at lines 502--514
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--517
+Underfull \hbox (badness 10000) in paragraph at lines 526--540
 []\T1/cmr/m/n/10.95 University of Vir-ginia.  (2020).  \T1/cmr/m/it/10.95 APA h
 ow much do data sci-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--517
+Underfull \hbox (badness 10000) in paragraph at lines 526--540
 \T1/cmr/m/it/10.95 en-tists need to know about statis-tics? (6th edi-tion).  \T
 1/cmr/m/n/10.95 (See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--517
+Underfull \hbox (badness 10000) in paragraph at lines 526--540
 \T1/cmtt/m/n/10.95 https://datascience.virginia.edu/news/how-much-do-data-scien
 tists-
  []
@@ -523,12 +533,15 @@ tists-
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 3787 strings out of 478659
- 60638 string characters out of 2845920
+ 3789 strings out of 478659
+ 60654 string characters out of 2845920
  391394 words of memory out of 3000000
- 21878 multiletter control sequences out of 15000+600000
+ 21880 multiletter control sequences out of 15000+600000
  414617 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,834b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -544,9 +557,9 @@ eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\yhkim\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\yhkim\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/yhkim/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project1.pdf (15 pages, 166792 bytes).
+Output written on Project1.pdf (15 pages, 169194 bytes).
 PDF statistics:
- 442 PDF objects out of 1000 (max. 8388607)
+ 447 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

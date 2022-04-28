@@ -14,45 +14,50 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: main.bib
+Repeated entry---line 181 of file main.bib
+ : @misc{isaac7
+ :             ,
+I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 21 entries,
+You've used 22 entries,
             6951 wiz_defined-function locations,
-            1358 strings with 14143 characters,
-and the built_in function-call counts, 32043 in all, are:
-= -- 3964
-> -- 211
-< -- 1574
-+ -- 1341
-- -- 85
-* -- 1828
-:= -- 6115
-add.period$ -- 84
-call.type$ -- 21
-change.case$ -- 373
+            1362 strings with 14262 characters,
+and the built_in function-call counts, 33290 in all, are:
+= -- 4120
+> -- 221
+< -- 1619
++ -- 1374
+- -- 89
+* -- 1888
+:= -- 6317
+add.period$ -- 88
+call.type$ -- 22
+change.case$ -- 390
 chr.to.int$ -- 0
-cite$ -- 42
-duplicate$ -- 624
-empty$ -- 1370
-format.name$ -- 294
-if$ -- 6240
+cite$ -- 44
+duplicate$ -- 655
+empty$ -- 1435
+format.name$ -- 308
+if$ -- 6505
 int.to.chr$ -- 0
-int.to.str$ -- 67
+int.to.str$ -- 70
 missing$ -- 0
-newline$ -- 465
-num.names$ -- 168
-pop$ -- 1451
+newline$ -- 487
+num.names$ -- 176
+pop$ -- 1520
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 88
 quote$ -- 0
-skip$ -- 1565
+skip$ -- 1634
 stack$ -- 0
-substring$ -- 1425
-swap$ -- 296
-text.length$ -- 63
+substring$ -- 1462
+swap$ -- 310
+text.length$ -- 66
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1680
+type$ -- 1760
 warning$ -- 0
-while$ -- 105
+while$ -- 110
 width$ -- 0
-write$ -- 506
+write$ -- 530
+(There was 1 error message)

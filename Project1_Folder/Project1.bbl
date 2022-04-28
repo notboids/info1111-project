@@ -217,6 +217,29 @@ ky2}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{IBM Cloud Education}%
+}{%
+{IBM Cloud Education}%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+isaac8}
+\APACinsertmetastar {%
+isaac8}%
+\begin{APACrefauthors}%
+{IBM Cloud Education}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {{APA} MEAN stack (6th Edition).} {{APA} mean stack (6th
+  edition).}
+\newblock
+\APACrefnote{See \url{https://www.ibm.com/cloud/learn/mean-stack-explained}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Instagram Engineering}%
 }{%
 {Instagram Engineering}%

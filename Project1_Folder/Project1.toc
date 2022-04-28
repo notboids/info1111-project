@@ -35,13 +35,14 @@
 \contentsline {subsubsection}{7.Identity and Access Management}{7}{}%
 \contentsline {subsubsection}{8.Attention to detail}{8}{}%
 \contentsline {section}{\numberline {2.}Level 2: Basic Technology}{9}{}%
-\contentsline {subsection}{\numberline {2.1.}Tech Stack: add student 1 name here}{9}{}%
+\contentsline {subsection}{\numberline {2.1.}Netflix tech stack - MEAN: Isaac Kim}{9}{}%
+\contentsline {subsubsection}{MongoDB}{9}{}%
 \contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{9}{}%
 \contentsline {subsection}{\numberline {2.3.} Instagram Tech Stack: Tan Ky Le}{9}{}%
 \contentsline {subsubsection}{1. Django}{9}{}%
 \contentsline {subsubsection}{2. Objective-C}{9}{}%
 \contentsline {subsubsection}{3. React Native}{9}{}%
-\contentsline {subsubsection}{4. Celery and RabbitMQ}{9}{}%
+\contentsline {subsubsection}{4. Celery and RabbitMQ}{10}{}%
 \contentsline {subsubsection}{5. PostgreSQL and Cassandra}{10}{}%
 \contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{10}{}%
 \contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{11}{}%
