@@ -364,6 +364,30 @@ ky1}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Netflix}%
+}{%
+{Netflix}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac11}
+\APACinsertmetastar {%
+isaac11}%
+\begin{APACrefauthors}%
+{Netflix}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} Completing the Netflix Cloud Migration (6th Edition).}
+  {{APA} completing the netflix cloud migration (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://about.netflix.com/en/news/completing-the-netflix-cloud-migration}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Patrick Grieve}%
 }{%
 {Patrick Grieve}%
@@ -494,7 +518,7 @@ isaac4}%
 {TechTarget}%
 }{%
 {\protect \APACyear {2022}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 isaac6}
 \APACinsertmetastar {%
 isaac6}%
@@ -503,13 +527,60 @@ isaac6}%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2022}{}{}.
+\APACrefYearMonthDay{2022{\protect \BCnt {1}}}{}{}.
 \newblock
 \APACrefbtitle {{APA} Big Data Analytics (6th Edition).} {{APA} big data
   analytics (6th edition).}
 \newblock
 \APACrefnote{See
   \url{https://www.techtarget.com/searchbusinessanalytics/definition/big-data-analytics}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{TechTarget}%
+}{%
+{TechTarget}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+isaac9}
+\APACinsertmetastar {%
+isaac9}%
+\begin{APACrefauthors}%
+{TechTarget}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} MongoDB (6th Edition).} {{APA} mongodb (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.techtarget.com/searchdatamanagement/definition/MongoDB}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{tutorialsteacher}%
+}{%
+{tutorialsteacher}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac10}
+\APACinsertmetastar {%
+isaac10}%
+\begin{APACrefauthors}%
+{tutorialsteacher}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} What is AngularJS (6th Edition).} {{APA} what is
+  angularjs (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.tutorialsteacher.com/angularjs/what-is-angularjs}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

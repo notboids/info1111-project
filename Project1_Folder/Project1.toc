@@ -36,23 +36,28 @@
 \contentsline {subsubsection}{8.Attention to detail}{8}{}%
 \contentsline {section}{\numberline {2.}Level 2: Basic Technology}{9}{}%
 \contentsline {subsection}{\numberline {2.1.}Netflix tech stack - MEAN: Isaac Kim}{9}{}%
-\contentsline {subsubsection}{MongoDB}{9}{}%
-\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{9}{}%
-\contentsline {subsection}{\numberline {2.3.} Instagram Tech Stack: Tan Ky Le}{9}{}%
-\contentsline {subsubsection}{1. Django}{9}{}%
-\contentsline {subsubsection}{2. Objective-C}{9}{}%
-\contentsline {subsubsection}{3. React Native}{9}{}%
+\contentsline {subsubsection}{1. MongoDB}{9}{}%
+\contentsline {subsubsection}{2. ExpressJS}{9}{}%
+\contentsline {subsubsection}{3. AngularJS}{9}{}%
+\contentsline {subsubsection}{4. Node.js}{9}{}%
+\contentsline {subsubsection}{5. MEAN}{9}{}%
+\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{10}{}%
+\contentsline {subsection}{\numberline {2.3.} Instagram Tech Stack: Tan Ky Le}{10}{}%
+\contentsline {subsubsection}{1. Django}{10}{}%
+\contentsline {subsubsection}{2. Objective-C}{10}{}%
+\contentsline {subsubsection}{3. React Native}{10}{}%
 \contentsline {subsubsection}{4. Celery and RabbitMQ}{10}{}%
 \contentsline {subsubsection}{5. PostgreSQL and Cassandra}{10}{}%
-\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{10}{}%
-\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{11}{}%
-\contentsline {subsection}{\numberline {3.1.}Advanced features: add student 1 name here}{11}{}%
-\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{11}{}%
-\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{11}{}%
-\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{11}{}%
-\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{12}{}%
-\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{12}{}%
-\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{12}{}%
-\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{12}{}%
-\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{12}{}%
-\contentsline {chapter}{References}{13}{}%
+\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{11}{}%
+\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{12}{}%
+\contentsline {subsection}{\numberline {3.1.}Advanced features: add student 1 name here}{12}{}%
+\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{12}{}%
+\contentsline {subsection}{\numberline {3.3.}Tan Ky Le}{12}{}%
+\contentsline {subsubsection}{ Latex: Macro and Hyperlink}{12}{}%
+\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{12}{}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{13}{}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{13}{}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{13}{}%
+\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{13}{}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{13}{}%
+\contentsline {chapter}{References}{14}{}%
