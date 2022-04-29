@@ -1,9 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  28 APR 2022 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.18)  28 APR 2022 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Project1.tex
-(Project1.tex
+**C:/Users/yhkim/Documents/INFO1111/info1111-project/Project1_Folder/Project1.t
+ex
+
+(C:/Users/yhkim/Documents/INFO1111/info1111-project/Project1_Folder/Project1.te
+x
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
@@ -108,10 +111,51 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@dimlist=\toks20
 
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \graphicspath({I
+                    mages/}}
+? H
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+? return
+OK, entering \nonstopmode...
+! Too many }'s.
+l.9 \graphicspath({Images/}}
+                            
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2021/11/29 3.67 The Babel package
 \babel@savecnt=\count279
-\U@D=\dimen152
+\U@D=\dimen154
 \l@unhyphenated=\language79
 
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
@@ -189,23 +233,25 @@ tex.def
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count284
 \l__pdf_internal_box=\box51
-) (Project1.aux)
+)
+(C:/Users/yhkim/Documents/INFO1111/info1111-project/Project1_Folder\Project1.au
+x)
 \openout1 = `Project1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -241,42 +287,71 @@ LaTeX Font Info:    ... okay on input line 25.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@maskedRefs=\count285
+
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen155
+\scratchbox=\box52
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen156
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@maskedRefs=\count291
+
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
+[1
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+{C:/Users/yhkim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 55.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 55.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []\T1/cmr/bx/n/12 Levels be-ing
  []
 
 
-Underfull \hbox (badness 5862) in paragraph at lines 53--53
+Underfull \hbox (badness 5862) in paragraph at lines 55--55
 \T1/cmr/bx/n/12 at-tempted in
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \T1/cmr/bx/n/12 this sub-mis-
  []
 
 
-Overfull \hbox (35.99998pt too wide) in paragraph at lines 53--53
+Overfull \hbox (35.99998pt too wide) in paragraph at lines 55--55
  [][] 
  []
 
-[1
-
-{C:/Users/yhkim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Project1.toc
+[1]
+(C:/Users/yhkim/Documents/INFO1111/info1111-project/Project1_Folder\Project1.to
+c
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
@@ -286,23 +361,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1]
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 60.
+(Font)              size <14.4> substituted on input line 62.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 62.
+(Font)              size <12> substituted on input line 64.
 
 [2] [3] [4] [5] [6] [7] [8]
 
-LaTeX Warning: Citation `isaac8' undefined on input line 160.
+LaTeX Warning: Citation `isaac9' undefined on input line 159.
 
-[9] [10] [11] [12] (Project1.bbl
+
+LaTeX Warning: Citation `isaac10' undefined on input line 165.
+
+
+LaTeX Warning: Citation `isaac11' undefined on input line 173.
+
+[9] [10] [11]
+
+LaTeX Warning: File `latexLogo.png' not found on input line 225.
+
+
+! Package pdftex.def Error: File `latexLogo.png' not found: using draft setting
+.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.225 \centerline{\includegraphics{latexLogo.png}}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-5.
-
+25.
 (C:\Users\yhkim\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
+[12] [13]
+(C:/Users/yhkim/Documents/INFO1111/info1111-project/Project1_Folder\Project1.bb
+l
 Underfull \hbox (badness 10000) in paragraph at lines 14--27
 []\T1/cmr/m/n/10.95 Anastasiia Las-tovet-ska.  (2021).  \T1/cmr/m/it/10.95 APA 
 how to make an
@@ -449,7 +548,7 @@ Underfull \hbox (badness 2229) in paragraph at lines 353--365
  c++ is still in use to-day.  \T1/cmr/m/n/10.95 (See
  []
 
-[13
+[14
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 377--390
@@ -528,7 +627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 526--540
 tists-
  []
 
-) [14] (Project1.aux)
+) [15] (Project1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -536,30 +635,33 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3789 strings out of 478659
- 60654 string characters out of 2845920
- 391394 words of memory out of 3000000
- 21880 multiletter control sequences out of 15000+600000
+ 4652 strings out of 478659
+ 74346 string characters out of 2845920
+ 403471 words of memory out of 3000000
+ 22695 multiletter control sequences out of 15000+600000
  414617 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,834b,247s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
+ 55i,8n,62p,936b,293s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
 1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecti1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+0\ectt1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
 /dpi600\tcrm1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecrm0800.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fonts/pk/
 ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\yhkim\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\yhkim\AppData\Local\MiKT
-eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\yhkim\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\yhkim\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk><C:/Users/yhkim/A
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\yhkim\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\yhkim\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\yhkim\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk><C:/Users/yhkim/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Project1.pdf (15 pages, 169194 bytes).
+Output written on Project1.pdf (17 pages, 172308 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
+ 455 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

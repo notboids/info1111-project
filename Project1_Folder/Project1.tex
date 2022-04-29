@@ -5,6 +5,8 @@
 \usepackage{titlesec}
 \usepackage{fancyhdr}
 \usepackage{geometry}
+\usepackage{graphicx}
+\graphicspath{{Images/}}
 
 \usepackage[english]{babel}
 \usepackage{apacite}
@@ -218,9 +220,46 @@ The following is a list of advanced Git and \LaTeX\ skills/features. Each studen
     \end{itemize}
 \end{itemize}
 
-\subsection{Advanced features: add student 1 name here}
+\subsection{Advanced features: Isaac Kim}
 
-Explain your use of the advanced Git and \LaTeX\ features. 
+\subsubsection{1. LATEX - Floating figures and editing style sheets}
+\begin{figure}[htp]
+\centerline{\includegraphics{latexLogo.png}}
+\caption{Caption : We can load images as figures, center them, and write captions for it}
+\label{fig}
+\end{figure}
+To load images, we first need to load graphicx package. Though not required, we could also set default path for images. (eg. Images/) By placing the image in a figure code block, we can specify where the image should be placed in the document with more control. (eg. h for "here", t for "top, b for "bottom") This is possible because figures are floats, which means figures can end up anywhere on the docuent depending on how they fit. 
+
+Figure 2, 3, 4, 5 = The same image used for figure 1 was resized relative to the size of the report page several times.
+\begin{figure}[hp]
+\centering
+\includegraphics[width=1\columnwidth]{latexLogo.png}
+\caption{Caption : This image is scaled to match the width of the page (columnwidth).}
+\label{fig}
+\end{figure}
+\begin{figure}[hp]
+\centering
+\includegraphics[width=0.8\columnwidth]{latexLogo.png}
+\caption{Caption : This image is scaled to match 80 percent of the width of the page (columnwidth).}
+\label{fig}
+\end{figure}
+\begin{figure}[hp]
+\centering
+\includegraphics[width=0.6\columnwidth]{latexLogo.png}
+\caption{Caption : This image is scaled to match 60 percent of the width of the page (columnwidth).}
+\label{fig}
+\end{figure}
+\begin{figure}[hp]
+\centering
+\includegraphics[width=0.4\columnwidth]{latexLogo.png}
+\caption{Caption : This image is scaled to match 40 percent of the width of the page (columnwidth).}
+\label{fig}
+\end{figure}
+
+
+
+
+ 
 
 \subsection{Advanced features: add student 2 name here}
 
