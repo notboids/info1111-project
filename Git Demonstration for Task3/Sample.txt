@@ -1,3 +1,0 @@
-This is version B of this text.
-Version A contains error :(
-It is commited by branch personB.
