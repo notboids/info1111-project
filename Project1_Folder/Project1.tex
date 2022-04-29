@@ -171,12 +171,6 @@ Angular is a JavaScript MVC framework for building dynamic web applications on t
 \subsubsection{4. Node.js}
 Node.js is an open source JavaScript framework that processes different connections simultaneously using asynchronous events.\cite{isaac8}  It is the MEAN stack's core. It includes an integrated web server that will provide data to users using AngularJS while also deploying the MongoDB database and application to the cloud.\cite{isaac8} The scalability of Node.js is one of its strongest features, since it easily responds to use increases.
 
-\subsubsection{Interactions within MEAN}
-MEAN is an open source web stack for building cloud-hosted apps. MEAN stack apps are scalable, adaptable, and versatile, making them ideal for cloud hosting.\cite{isaac8} The stack comes with its own web server, making it simple to install, and the database can be expanded on demand to handle temporary traffic surges. \cite{isaac8} The MEAN stack takes advantage of the cloud's cost savings and performance enhancements.\cite{isaac8} 
-
-The above explanation of MEAN is a straightforward answer to why Netflix could be using MEAN. Netflix is responsible for about fifteen percent of all internet traffic globally. Netflix grew incredibly fast as a company. I believe one of the most crucial factors behind their success was their quick adaptation of strategies to handle overflowing user connections globally. Netflix started using AWS(Amazon Web Server) as their cloud provider to move away from fixed relational databases and head towards highly reliable and scalable distributed servers.\cite{isaac11}  MongoDB, Express, Angular, and Node.js together must have played a very important role in achieving this, enabling Netflix to respond to user requests flexibly with the power of cloud computing and quickly with usage of consistent data structures within the program.
-
-
 \subsection{Microsoft Tech Stack: Jake Lewitton}
 
 The frontend tech-stack is one that is used for client-side software. Microsoft uses it to host all web pages on Microsoft Edge.
@@ -249,10 +243,45 @@ Latex Style Sheet allows users to keep content of document and style in a separa
 3) \textbackslash istGroupMembers: prints a table with our group members' name, age, and hobby each in the specified backround colors(3  parameters)
 \listGroupMembers{lime}{orange}{pink}
 
-\subsubsection{3. Git - }
-working on it..
+\subsubsection{3. Git - Revert}
+The git revert command is a forward-moving undo operation that allows you to undo changes in a secure manner. A revert creates a new commit that reverses the modifications indicated, rather than deleting or link commits in the commit history.\cite{isaac12} In terms of losing work, git reverse is a better option than git reset.\cite{isaac12}
 
+While working on the group project, I have used git revert several times because I have commited wrong lines of code into main. Since all of our group members work on main branch, there is no first line defense of wrong code merging into main compared to using separate braches. In such cases, it is complicaed to pull from the git and fix the wrong codes. Instead, I would revert my local repository to previous commit state and push the code again to the remote repository. To revert to last commit, one can use command "git revert" followed by the hash code of the previous commit (eg. 1a4abb7719fe976a8b2090f296ba4cffa2017cc0) Hashcodes of previous commits appears in a list when "git log" is executed in terminal.
 
+\subsubsection{4. Git - Automated Merges}
+When a user enables auto-merge for a pull request, it will merge automatically once all needed reviews have been completed and status checks have been passed. Auto-merge eliminates the need for developers to wait for requirements to be satisfied, allowing you to focus move on to next duties. Auto-merge must be enabled for the repository before it can be used with a pull request.
+
+As I stated in the previous section, our group has been working on this particular project using git but using only main branch. However, in most team development processes, it is normal to work on separate branches and make pull / merge requests to have one's code merged into default branch. In such cases, team members need to confirm merge requests. I have showcased such circumstance in below figures.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Isaac-merge.pdf}
+\caption{Code from person A must be reviewed and merged by peers.}
+\label{fig}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Isaac-merge2.pdf}
+\caption{Code from person A must be reviewed and merged by peers.}
+\label{fig}
+\end{figure}
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.4\columnwidth]{auto-merge.pdf}
+\caption{ Under settings page of one's own repository, we can enable automated merges}
+\label{fig}
+\end{figure}
+
+\subsubsection{Interactions within MEAN}
+Javascript has long been a popular language for front-end web development. It's adaptable, easy to use, and most importantly, dynamic. \cite{isaac8}  It is arguably the most widely used programming language on the planet, and not just because it can help you develop beautiful, responsive websites. Javascript has shown to be a viable option for backend and database development over the last few years. \cite{isaac8}  This essentially means that javascript can be used to generate and deliver a fully functional webpage.
+
+Every component of MEAN uses the same language, javascript. This is the tech stack's most valuable asset because javascript's standardization allows developers to reuse code throughout the entire program.\cite{isaac8} Since all 4 components run on the same language, there is no need for type conversions in end-to-end data transfer. This is why MongoDB is able to have document-oriented, not relational architecture. In addition due to Javascript essentially being the core of reactive web design, React builds upon the advantage and makes the javascript language for web building even stronger and ease the burden of many developers. And since the tech stack is designed to run in cloud systems, the flexibility and speed is both ensured for applications using MEAN thanks to functionalities of Node.js and Express.  Furthermore, from the standpoint of companies, MEAN eliminates the need to hire many professionals to develop different components of an app, instead relying on a single pool of Javascript developers to work on any part of the application. \cite{isaac8} 
+
+MEAN is an open source web stack for building cloud-hosted apps. MEAN stack apps are scalable, adaptable, and versatile, making them ideal for cloud hosting.\cite{isaac8} The stack comes with its own web server, making it simple to install, and the database can be expanded on demand to handle temporary traffic surges. \cite{isaac8} The MEAN stack takes advantage of the cloud's cost savings and performance enhancements.\cite{isaac8} 
+
+The above explanation of MEAN is a straightforward answer to why big tech companies like Netflix could be using MEAN. Netflix is responsible for about fifteen percent of all internet traffic globally. Netflix grew incredibly fast as a company. I believe one of the most crucial factors behind their success was their quick adaptation of strategies to handle overflowing user connections globally. Netflix started using AWS(Amazon Web Server) as their cloud provider to move away from fixed relational databases and head towards highly reliable and scalable distributed servers.\cite{isaac11}  MongoDB, Express, Angular, and Node.js together must have played a very important role in achieving this, enabling Netflix to respond to user requests flexibly with the power of cloud computing and quickly with usage of consistent data structures within the program.
 
 \subsection{Jake Lewitton}
 \subsubsection{Git: Rebasing files}
@@ -301,13 +330,6 @@ systems and Objective-C is used for creating applications on IOS systems. React 
  Celery and RabbitMQ: All asynchronous activities, such as delivering notifications and running background processes, are handled by Celery and RabbitMQ. Celery is a task queue that is built on message communication dispersion. It's priority involves real-time activities. Celery is also helpful for scheduling. RabbitMQ is a messaging platform and is highly compatible with Celery. It is written down using the Advanced Messaging Queuing Protocol (AMQP).
 
 PostgreSQL and Cassandra: PostgreSQL and Cassandra work together as back-end systems for Instagram. Both have mature replication frameworks that fit as a globally consistent data store. PostgreSQL is used to contain Instagram's data such as images, videos, articles and user information. Most of our data(users, photo meta, tags, etc..) lives in PostgreSQL said the engineering team. Instagram uses Cassandra as key-value storage, assisting user photo feed, direct messages and fraud detection as well.
-
-
-\subsection{Advanced features: add student 4 name here}
-
-Explain your use of the advanced Git and \LaTeX\ features. 
-
-
 
 %=======================================================================================
 
