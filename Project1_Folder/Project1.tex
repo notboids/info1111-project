@@ -210,8 +210,6 @@ Instagram mainly uses PostgreSQL and Cassandra as back-end systems. Both have ma
 \newpage
 \section{Level 3: Advanced Skills}
 
-\href{https://github.com/notboids/info1111-project/blob/main/Project1_Folder/Project1.pdf}{Link To Our Group's Github Page}
-
 \subsection{Advanced features: Isaac Kim}
 
 \subsubsection{1. \LaTeX\ - Floating figures}
@@ -220,7 +218,7 @@ Instagram mainly uses PostgreSQL and Cassandra as back-end systems. Both have ma
 \caption{Caption : We can load images as figures, center them, and write captions for it}
 \label{fig}
 \end{figure}
-To load images, we first need to load graphicx package. Though not required, we could also set a default path for images. (eg.\textbackslash graphicspath{{Images/}}) By placing the image in a figure code block, we can specify where the image should be placed in the document with more control. (eg. h for "here", t for "top, b for "bottom") This is possible because figures are floats, which means figures can end up anywhere on the docuent depending on how they fit. 
+To load images, we first need to load graphicx package. Though not required, we could also set a default path for images. (eg.graphicspath{{Images/}}) By placing the image in a figure code block, we can specify where the image should be placed in the document with more control. (eg. h for "here", t for "top, b for "bottom") This is possible because figures are floats, which means figures can end up anywhere on the docuent depending on how they fit. 
 
 Figure 2, 3 = The same image used for figure 1 was resized relative to the size of the report page several times.
 \begin{figure}[h]
@@ -251,8 +249,10 @@ Latex Style Sheet allows users to keep content of document and style in a separa
 3) \textbackslash istGroupMembers: prints a table with our group members' name, age, and hobby each in the specified backround colors(3  parameters)
 \listGroupMembers{lime}{orange}{pink}
 
-\subsubsection{3. Git - Reverting}
-The git revert command is a forward-moving undo operation that allows you to undo changes in a secure manner. A revert creates a new commit that reverses the modifications indicated, rather than deleting or orphaning commits in the commit history.\cite{isaac12} In terms of losing work, git reverse is a better option than git reset. \cite{isaac12}
+\subsubsection{3. Git - }
+working on it..
+
+
 
 \subsection{Jake Lewitton}
 \subsubsection{Git: Rebasing files}
@@ -274,7 +274,6 @@ Cross-referencing is when you reference an image, equation, graph etc. that is i
 {`'}
 }
 A custom command is one that the document writer decides on and creates to make writing code simpler throughout the coding process. To create a custom command, the \textbackslash newcommand{}{} command is used. Inside the first brackets, the new command should be illustrated. For example, if I wanted a \sym to be outputted every time I typed \textbackslash sym, I would put \textbackslash sym in the first brackets. In the second brackets, the output of the new command should be put in. In my example, a \sym would be put inside the second brackets. Now, every time \textbackslash sym was written, \sym would be outputted. Every time I have written the \sym symbol, it has been through a custom command.\cite{jake12}
-
 
 \subsection{Tan Ky Le}
 
@@ -302,6 +301,13 @@ systems and Objective-C is used for creating applications on IOS systems. React 
  Celery and RabbitMQ: All asynchronous activities, such as delivering notifications and running background processes, are handled by Celery and RabbitMQ. Celery is a task queue that is built on message communication dispersion. It's priority involves real-time activities. Celery is also helpful for scheduling. RabbitMQ is a messaging platform and is highly compatible with Celery. It is written down using the Advanced Messaging Queuing Protocol (AMQP).
 
 PostgreSQL and Cassandra: PostgreSQL and Cassandra work together as back-end systems for Instagram. Both have mature replication frameworks that fit as a globally consistent data store. PostgreSQL is used to contain Instagram's data such as images, videos, articles and user information. Most of our data(users, photo meta, tags, etc..) lives in PostgreSQL said the engineering team. Instagram uses Cassandra as key-value storage, assisting user photo feed, direct messages and fraud detection as well.
+
+
+\subsection{Advanced features: add student 4 name here}
+
+Explain your use of the advanced Git and \LaTeX\ features. 
+
+
 
 %=======================================================================================
 
