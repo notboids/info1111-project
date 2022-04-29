@@ -7,6 +7,7 @@
 \usepackage{geometry}
 \usepackage{graphicx}
 \graphicspath{{Images/}}
+\usepackage{hyperref}
 
 \usepackage[english]{babel}
 \usepackage{apacite}
@@ -256,6 +257,8 @@ Figure 2, 3, 4, 5 = The same image used for figure 1 was resized relative to the
 \label{fig}
 \end{figure}
 
+x
+
 
 \subsection{Advanced features: add student 2 name here}
 
@@ -269,11 +272,9 @@ Explain your use of the advanced Git and \LaTeX\ features.
 A\BoldandItalic{} is a set of commands that are frequently used and by creating macros, one can save a lot of time by simply referring to the\BoldandItalic{} instead of re-writing all those commands again. In addition, by using\BoldandItalic{}, user can easily apply changes to the document. For example, if you refer to a name of a city in the document many times by typing the name out or copy paste every time and later find out that you got the spelling wrong and want to change all the names in the document, then changing those names would be taking quite an amount of time. However, if you use macro instead, you can easily change the name in the macro and the change will be applied to the whole document which is totally way faster. For my demostration, I created a macro which make the text "macro" to be underlined, bold and italic  as you can see in this paragraph.
 
 Hyperlinks: With hyperlinks, user can make their photos, texts,.. clickable in latex which is useful since reader can just click and they will be taken to the information that they are actually interested in. I have used hyperlinks in latex, words documents and HTML files and they are always a crucial element to make sure that my documents are informative. For example, I am writing about some kind of turtles and would like to show reader to some videos on youtube for a better visualization so I can use hyperlinks to save space and keep the document as tidy as possible. To use hyperlink, i added hyperref package.
-(I suppose i need to include it so tutor can assess the Git skills part) This is the link to my github: % \href{https://github.com/Kyle240/testing.git}{My github}
+(I suppose i need to include it so tutor can assess the Git skills part) This is the link to my github: \href{https://github.com/Kyle240/testing.git}{My github}
 
 \subsubsection{ Git: Tags and Reseting}
-
-
 
 Tags: Git is able to tag specific points in a repository’s history. Git tags are used to capture the specific point in the history that is further used to point to a released version. A tag does not change like a branch. They don’t have a further history of commits after being created. Git has two different kinds of tags, annotated and lightweight tags. Annotated tags are saved as full objects in the Git database. They store some extra information such as the tagger’s name, email and date. Lightweight tags are just bookmarks to a commit, they are just a name and a pointer to a commit which is great for producing quick links to relevant commits.  
 About the actual use, I created an annotated tag name v3.0 using git tag -a “v3.0” -m “message” , check it again by git show v3.0  and I can show list of tags using git tag. 
