@@ -179,7 +179,6 @@ The above explanation of MEAN is a straightforward answer to why Netflix could b
 
 \subsection{Microsoft Tech Stack: Jake Lewitton}
 
-<<<<<<< HEAD
 The frontend tech-stack is one that is used for client-side software. Microsoft uses it to host all web pages on Microsoft Edge.
 
 \subsubsection{1. HTML}
@@ -191,8 +190,7 @@ Developers use several frameworks along with CSS in order to help organise code 
 JavaScript was developed to handle interactivity within front-end software solutions. Essentially, JavaScript is where all the computing, data storage, and logic happens. If you would like to have a button change colour every time it is clicked, JavaScript would handle that logic, while CSS would handle the front-end changes. Similarly to CSS, developers use a wide range of libraries and frameworks to help with JavaScript development. Things like jQuery, which helps with data querying, React, which helps with creating interact-able UIs and Angular to help with condensing code all allow developers to build front-end solutions that last.
 
 At the end of the day, the front-end tech-stack is one of the most iconic of them all, as it is probably being used somewhere on your computer right now. Almost all of the internet runs it, meaning it is adaptable and will remain relevant for a very long time.
-=======
->>>>>>> da9b9b907caf2a43483ae9f30d93382cfc9c2aaa
+
 
 \subsection{ Instagram Tech Stack: Tan Ky Le}
 \subsubsection{1. Django}
@@ -239,16 +237,16 @@ Figure 2, 3 = The same image used for figure 1 was resized relative to the size 
 \subsubsection{2. \LaTeX\ - Style Sheet}
 Latex Style Sheet allows users to keep content of document and style in a separate file. (stylesheet in a .sty file). While I could load different packages into the tex file and work on styling (eg. drawing background logo, coloring fonts), doing so may make the document not as ordered compared to when I would create a separate stylesheet (IsaacStyleSheet.sty) and keep all the styling commands there. For instance, I created a new command "drawlogo" inside IsaacStyleSheet, which draws USYD logo with lower opacity and dimension resized relative to page size. (width = 0.7, height=0.6). To use the command, I need to upload the stylesheet by including usepackage{IsaacStyleSheet}. Other commands I have implemented to the stylesheet includes... 
 
-1) "makeHorizLine": draws a horizontal line with the specified color (1st parameter)
+1) \textbackslash makeHorizLine: draws a horizontal line with the specified color (1st parameter)
 \makeHorizLine{red}
 \makeHorizLine{yellow}
 \makeHorizLine{green}
 \makeHorizLine{blue}
 
-2) "colorText" : prints the text(1st parameter) according to the specified color(2nd parameter)
+2) \textbackslash colorText : prints the text(1st parameter) according to the specified color(2nd parameter)
 \colorText{I'm cyan}{cyan}, \colorText{Hi I'm magenta}{magenta}, \colorText{Hellooo I'm teal}{teal}, \colorText{And I'm Olive}{olive}
 
-3) "listGroupMembers: prints a table with our group members' name, age, and hobby each in the specified backround colors(3  parameters)
+3) \textbackslash istGroupMembers: prints a table with our group members' name, age, and hobby each in the specified backround colors(3  parameters)
 \listGroupMembers{lime}{orange}{pink}
 
 \subsubsection{3. Git - }
@@ -263,12 +261,19 @@ Rebasing is an incredibly useful tool that is quite similar to merging, though t
 An ignored file in git is one which should not be added to the remote repository, or edited to match the remote repository. This is mostly used for log files, which indicate when certain individuals have worked on the software. It makes sense for every developer to have their own version of this file, so this file should be ignored, and not added to the stage when commits are made. These ignored files are all stored in a folder in the git repo that is automatically made called .gitignore. I have added to my local repos .gitignore folder a log file that is ignored by git and stores my progress on this submission.\cite{jake10}
 \subsubsection{Latex: Cross-referencing}
 Cross-referencing is when you reference an image, equation, graph etc. that is in a document somewhere within that same document. When cross-referencing, the referenced item is given a figure and a number, which refers to that specific reference. To create a figure, the \\caption{} command is used. Inside the brackets, the caption for the figure is then included. After that, the reference is labelled, with the \\label{} command. Inside the brackets, the label is written. Then, to reference the figure, the \\ref{} command is used, with the label inside the brackets. This will print the figure number being referenced.\cite{jake11}
-\includegraphics{latexLogo.png}
-\caption{"This is cross-referencing"}
+
+\begin{figure}[h]
+\centering
+\includegraphics{latex.jpg}
+\caption{This is cross-referencing}
 \label{example}
+\end{figure}
+
 \subsubsection{Latex: Custom commands}
-\newcommand{\symbol}{`'}
-A custom command is one that the document writer decides on and creates to make writing code simpler throughout the coding process. To create a custom command, the \\newcommand{}{} command is used. Inside the first brackets, the new command should be illustrated. For example, if I wanted a \symbol to be outputted every time I typed \\symbol, I would put \\symbol in the first brackets. In the second brackets, the output of the new command should be put in. In my example, a \symbol would be put inside the second brackets. Now, every time \\symbol was written, \symbol would be outputted. Every time I have written the \symbol symbol, it has been through a custom command.\cite{jake12}
+\newcommand{\sym}{
+{`'}
+}
+A custom command is one that the document writer decides on and creates to make writing code simpler throughout the coding process. To create a custom command, the \textbackslash newcommand{}{} command is used. Inside the first brackets, the new command should be illustrated. For example, if I wanted a \sym to be outputted every time I typed \textbackslash sym, I would put \textbackslash sym in the first brackets. In the second brackets, the output of the new command should be put in. In my example, a \sym would be put inside the second brackets. Now, every time \textbackslash sym was written, \sym would be outputted. Every time I have written the \sym symbol, it has been through a custom command.\cite{jake12}
 
 \subsection{Tan Ky Le}
 
