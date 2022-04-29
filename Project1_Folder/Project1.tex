@@ -40,16 +40,16 @@
 \textbf{\huge 2022 Semester 1}\\[2cm]
 \textbf{\huge Team Project Report}\\[3cm]
 
-\textbf{\huge Submission number: 1}\\[0.75cm]
+\textbf{\huge Submission number: 2}\\[0.75cm]
 \textbf{\huge Team Members:}\\[0.75cm]
 \textbf{\large
     \begin{tabular}{|p{0.5\textwidth}|p{0.3\textwidth}|p{0.2\textwidth}|}
         \hline
         Name & Student ID & Levels being attempted in this submission\\
         \hline
-        Isaac Kim & 510603294 & Task 1, 2 \\
-        Jake Lewitton & 510440541 & Task 1 \\
-        Tan Ky le & 510565486 & Level 1, 2 \\
+        Isaac Kim & 510603294 & Task 1, 2, 3 \\
+        Jake Lewitton & 510440541 & Task 1, 2, 3 \\
+        Tan Ky le & 510565486 & Level 1, 2, 3 \\
         \hline
     \end{tabular}
 }\\[0.75cm]
@@ -173,9 +173,19 @@ MEAN is an open source web stack for building cloud-hosted apps. MEAN stack apps
 The above explanation of MEAN is a straightforward answer to why Netflix could be using MEAN. Netflix is responsible for about fifteen percent of all internet traffic globally. Netflix grew incredibly fast as a company. I believe one of the most crucial factors behind their success was their quick adaptation of strategies to handle overflowing user connections globally. Netflix started using AWS(Amazon Web Server) as their cloud provider to move away from fixed relational databases and head towards highly reliable and scalable distributed servers.\cite{isaac11}  MongoDB, Express, Angular, and Node.js together must have played a very important role in achieving this, enabling Netflix to respond to user requests flexibly with the power of cloud computing and quickly with usage of consistent data structures within the program.
 
 
-\subsection{Tech Stack: add student 2 name here}
+\subsection{Microsoft Tech Stack: Jake Lewitton}
 
-Your text goes here
+The frontend tech-stack is one that is used for client-side software. Microsoft uses it to host all web pages on Microsoft Edge.
+
+\subsubsection{1. HTML}
+HTML stands for Hyper Text Markup Language. It creates and displays web documents, principally ones where the layout is created through code. HTML dictates the layout and presentation of a web page. It is essential for programmers to understand how HTML works, as it dictates the language style for most document-based coding languages such as Flutter, or React. HTML is a rather simple language that links up with the other technologies in this stack to create highly responsive and adaptive web pages for users.
+\subsubsection{2. CSS}
+CSS stands for Cascading Style Sheets. CSS is all about how things look. In HTML files developers are able to class elements into classes or ids, which then dictate how those specific elements are handled in CSS. In CSS, you can outline that specific classes should look a certain way, or adapt to where the mouse is on the screen ect.
+Developers use several frameworks along with CSS in order to help organise code and make it more dynamic for users through adding animations, or adaptive layouts.
+\subsubsection{3. JavaScript}
+JavaScript was developed to handle interactivity within front-end software solutions. Essentially, JavaScript is where all the computing, data storage, and logic happens. If you would like to have a button change colour every time it is clicked, JavaScript would handle that logic, while CSS would handle the front-end changes. Similarly to CSS, developers use a wide range of libraries and frameworks to help with JavaScript development. Things like jQuery, which helps with data querying, React, which helps with creating interact-able UIs and Angular to help with condensing code all allow developers to build front-end solutions that last.
+
+At the end of the day, the front-end tech-stack is one of the most iconic of them all, as it is probably being used somewhere on your computer right now. Almost all of the internet runs it, meaning it is adaptable and will remain relevant for a very long time.
 
 \subsection{ Instagram Tech Stack: Tan Ky Le}
 \subsubsection{1. Django}
@@ -257,9 +267,19 @@ Figure 2, 3, 4, 5 = The same image used for figure 1 was resized relative to the
 \end{figure}
 
 
-\subsection{Advanced features: add student 2 name here}
-
-Explain your use of the advanced Git and \LaTeX\ features. 
+\subsection{Jake Lewitton}
+\subsubsection{Git: Rebasing files}
+Rebasing is an incredibly useful tool that is quite similar to merging, though the functionality behind the tool makes some important distinctions that make it much more useful. While merging is a process that is non-destructive, meaning it only adds non-existing branches, rather than removing branches that are unused, rebasing moves an alternative branch into the main branch. This incorporates all the commits that have been made in the alternative branch into the now rebased main branch. I have used this command now to merge my different part of the submission.\cite{jake8}\cite{jake9}
+\subsubsection{Git: Ignoring files}
+An ignored file in git is one which should not be added to the remote repository, or edited to match the remote repository. This is mostly used for log files, which indicate when certain individuals have worked on the software. It makes sense for every developer to have their own version of this file, so this file should be ignored, and not added to the stage when commits are made. These ignored files are all stored in a folder in the git repo that is automatically made called .gitignore. I have added to my local repos .gitignore folder a log file that is ignored by git and stores my progress on this submission.\cite{jake10}
+\subsubsection{Latex: Cross-referencing}
+Cross-referencing is when you reference an image, equation, graph etc. that is in a document somewhere within that same document. When cross-referencing, the referenced item is given a figure and a number, which refers to that specific reference. To create a figure, the \\caption{} command is used. Inside the brackets, the caption for the figure is then included. After that, the reference is labelled, with the \\label{} command. Inside the brackets, the label is written. Then, to reference the figure, the \\ref{} command is used, with the label inside the brackets. This will print the figure number being referenced.\cite{jake11}
+\includegraphics{latexLogo.png}
+\caption{"This is cross-referencing"}
+\label{example}
+\subsubsection{Latex: Custom commands}
+\newcommand{\symbol}{`'}
+A custom command is one that the document writer decides on and creates to make writing code simpler throughout the coding process. To create a custom command, the \\newcommand{}{} command is used. Inside the first brackets, the new command should be illustrated. For example, if I wanted a \symbol to be outputted every time I typed \\symbol, I would put \\symbol in the first brackets. In the second brackets, the output of the new command should be put in. In my example, a \symbol would be put inside the second brackets. Now, every time \\symbol was written, \symbol would be outputted. Every time I have written the \symbol symbol, it has been through a custom command.\cite{jake12}
 
 \subsection{Tan Ky Le}
 
