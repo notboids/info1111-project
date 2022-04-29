@@ -1,0 +1,30 @@
+\ProvidesPackage{IsaacStyleSheet}[background logo, color subtitles]
+
+\RequirePackage{background}
+\usepackage{xcolor}
+
+\newcommand{\drawLogo}{
+\backgroundsetup{scale = 1, angle = 0, opacity = 0.05, contents =		  {\includegraphics[width=0.7\paperwidth, height=0.6\paperheight]{usydLogo.jpg}}
+}
+}
+
+\newcommand{\makeHorizLine}[1]{
+\noindent{\color{#1} \rule{\linewidth}{0.5mm}}
+}
+
+\newcommand{\colorText}[2]{
+{\color{#2} #1}
+}
+
+\newcommand{\listGroupMembers}[3]{
+{\begin{center}
+\begin{tabular}{ c c c }
+ Name & Age & Hobby \\ 
+\colorbox{#1}{Isaac} & \colorbox{#1}{19} & \colorbox{#1}{sports} \\  
+ \colorbox{#2}{Jack} & \colorbox{#2}{19} & \colorbox{#2}{cooking} \\
+\colorbox{#3}{Kyle} & \colorbox{#3}{19} & \colorbox{#3}{jogging}
+\end{tabular}
+\end{center}}
+}
+
+\endinput

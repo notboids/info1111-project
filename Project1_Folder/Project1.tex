@@ -7,6 +7,9 @@
 \usepackage{geometry}
 \usepackage{graphicx}
 \graphicspath{{Images/}}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{IsaacStyleSheet}
 
 \usepackage[english]{babel}
 \usepackage{apacite}
@@ -25,6 +28,7 @@
 
 
 \begin{document}
+\drawLogo
 \titleformat{\section}
 {\normalfont\fontsize{15}{0}\bfseries}{\thesection}{1em}{}
 \titlespacing{\section}{0cm}{0.5cm}{0.15cm}
@@ -47,9 +51,9 @@
         \hline
         Name & Student ID & Levels being attempted in this submission\\
         \hline
-        Isaac Kim & 510603294 & Task 1, 2, 3 \\
-        Jake Lewitton & 510440541 & Task 1, 2, 3 \\
-        Tan Ky le & 510565486 & Level 1, 2, 3 \\
+        Isaac Kim & 510603294 & Task 2, 3 \\
+        Jake Lewitton & 510440541 & Task 2, 3 \\
+        Tan Ky le & 510565486 & Level 3 \\
         \hline
     \end{tabular}
 }\\[0.75cm]
@@ -167,7 +171,7 @@ Angular is a JavaScript MVC framework for building dynamic web applications on t
 \subsubsection{4. Node.js}
 Node.js is an open source JavaScript framework that processes different connections simultaneously using asynchronous events.\cite{isaac8}  It is the MEAN stack's core. It includes an integrated web server that will provide data to users using AngularJS while also deploying the MongoDB database and application to the cloud.\cite{isaac8} The scalability of Node.js is one of its strongest features, since it easily responds to use increases.
 
-\subsubsection{5. MEAN}
+\subsubsection{Interactions within MEAN}
 MEAN is an open source web stack for building cloud-hosted apps. MEAN stack apps are scalable, adaptable, and versatile, making them ideal for cloud hosting.\cite{isaac8} The stack comes with its own web server, making it simple to install, and the database can be expanded on demand to handle temporary traffic surges. \cite{isaac8} The MEAN stack takes advantage of the cloud's cost savings and performance enhancements.\cite{isaac8} 
 
 The above explanation of MEAN is a straightforward answer to why Netflix could be using MEAN. Netflix is responsible for about fifteen percent of all internet traffic globally. Netflix grew incredibly fast as a company. I believe one of the most crucial factors behind their success was their quick adaptation of strategies to handle overflowing user connections globally. Netflix started using AWS(Amazon Web Server) as their cloud provider to move away from fixed relational databases and head towards highly reliable and scalable distributed servers.\cite{isaac11}  MongoDB, Express, Angular, and Node.js together must have played a very important role in achieving this, enabling Netflix to respond to user requests flexibly with the power of cloud computing and quickly with usage of consistent data structures within the program.
@@ -175,6 +179,7 @@ The above explanation of MEAN is a straightforward answer to why Netflix could b
 
 \subsection{Microsoft Tech Stack: Jake Lewitton}
 
+<<<<<<< HEAD
 The frontend tech-stack is one that is used for client-side software. Microsoft uses it to host all web pages on Microsoft Edge.
 
 \subsubsection{1. HTML}
@@ -186,6 +191,8 @@ Developers use several frameworks along with CSS in order to help organise code 
 JavaScript was developed to handle interactivity within front-end software solutions. Essentially, JavaScript is where all the computing, data storage, and logic happens. If you would like to have a button change colour every time it is clicked, JavaScript would handle that logic, while CSS would handle the front-end changes. Similarly to CSS, developers use a wide range of libraries and frameworks to help with JavaScript development. Things like jQuery, which helps with data querying, React, which helps with creating interact-able UIs and Angular to help with condensing code all allow developers to build front-end solutions that last.
 
 At the end of the day, the front-end tech-stack is one of the most iconic of them all, as it is probably being used somewhere on your computer right now. Almost all of the internet runs it, meaning it is adaptable and will remain relevant for a very long time.
+=======
+>>>>>>> da9b9b907caf2a43483ae9f30d93382cfc9c2aaa
 
 \subsection{ Instagram Tech Stack: Tan Ky Le}
 \subsubsection{1. Django}
@@ -198,9 +205,6 @@ Instagram user app (front end) is written in React Native, a cross-functional pr
 All asynchronous activities, such as delivering notifiacations and running background processes, are handled by Celery and RabbitMQ. Celery is a task queue that is built on message communication dispersion. It's priority involves real-time activities. Celery is also helpful for scheduling. RabbitMQ is a messaging platform and is highly compatible with Celery. It is written down using the Advanced Messaging Queuing Protocol (AMQP)\cite{ky4}.
 \subsubsection{5. PostgreSQL and Cassandra}
 Instagram mainly uses PostgreSQL and Cassandra as back-end systems. Both have mature replication frameworks that fit as a globally consistent data store\cite{ky5}. PostgreSQL is used to contain Instagram’s data such as images, videos, articles and user information\cite{ky4}. “Most of our data(users, photo meta, tags, etc..) lives in PostgreSQL” said the engineering team. Instagram uses Cassandra as key-value storage, assisting user photo feed, direct messages and fraud detection as well\cite{ky6}
-\subsection{Tech Stack: add student 4 name here}
-
-Your text goes here
 
 
 %=======================================================================================
@@ -208,63 +212,48 @@ Your text goes here
 \newpage
 \section{Level 3: Advanced Skills}
 
-Level 3 focuses on more advanced technical skills (\LaTeX\ and Git) and analysis of linkages and relationships between the items in the company tech stack.
-
-The following is a list of advanced Git and \LaTeX\ skills/features. Each student should select one pair of items from each list and demonstrate actual use of each item (either through activity in Git, or through including items in this report). (Target = $\sim$100 words per student for each feature).
-\begin{itemize}
-    \item Git
-    \begin{itemize}
-        \item Rebasing and Ignoring files
-        \item Forking and Special files
-        \item Resetting and Tags
-        \item Reverting and Automated merges
-        \item Hooks and Tags
-    \end{itemize}
-    \item \LaTeX\ 
-    \begin{itemize}
-        \item Cross-referencing and Custom commands
-        \item Footnotes/margin notes and creating new environments
-        \item Floating figures and editing style sheets
-        \item Graphics and advanced mathematical equations
-        \item Macros and hyperlinks
-    \end{itemize}
-\end{itemize}
-
 \subsection{Advanced features: Isaac Kim}
 
-\subsubsection{1. LATEX - Floating figures and editing style sheets}
+\subsubsection{1. \LaTeX\ - Floating figures}
 \begin{figure}[htp]
 \centerline{\includegraphics{latexLogo.png}}
 \caption{Caption : We can load images as figures, center them, and write captions for it}
 \label{fig}
 \end{figure}
-To load images, we first need to load graphicx package. Though not required, we could also set default path for images. (eg. Images/) By placing the image in a figure code block, we can specify where the image should be placed in the document with more control. (eg. h for "here", t for "top, b for "bottom") This is possible because figures are floats, which means figures can end up anywhere on the docuent depending on how they fit. 
+To load images, we first need to load graphicx package. Though not required, we could also set a default path for images. (eg.graphicspath{{Images/}}) By placing the image in a figure code block, we can specify where the image should be placed in the document with more control. (eg. h for "here", t for "top, b for "bottom") This is possible because figures are floats, which means figures can end up anywhere on the docuent depending on how they fit. 
 
-Figure 2, 3, 4, 5 = The same image used for figure 1 was resized relative to the size of the report page several times.
-\begin{figure}[hp]
-\centering
-\includegraphics[width=1\columnwidth]{latexLogo.png}
-\caption{Caption : This image is scaled to match the width of the page (columnwidth).}
-\label{fig}
-\end{figure}
-\begin{figure}[hp]
-\centering
-\includegraphics[width=0.8\columnwidth]{latexLogo.png}
-\caption{Caption : This image is scaled to match 80 percent of the width of the page (columnwidth).}
-\label{fig}
-\end{figure}
-\begin{figure}[hp]
+Figure 2, 3 = The same image used for figure 1 was resized relative to the size of the report page several times.
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.6\columnwidth]{latexLogo.png}
 \caption{Caption : This image is scaled to match 60 percent of the width of the page (columnwidth).}
 \label{fig}
 \end{figure}
-\begin{figure}[hp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.4\columnwidth]{latexLogo.png}
 \caption{Caption : This image is scaled to match 40 percent of the width of the page (columnwidth).}
 \label{fig}
 \end{figure}
+
+\subsubsection{2. \LaTeX\ - Style Sheet}
+Latex Style Sheet allows users to keep content of document and style in a separate file. (stylesheet in a .sty file). While I could load different packages into the tex file and work on styling (eg. drawing background logo, coloring fonts), doing so may make the document not as ordered compared to when I would create a separate stylesheet (IsaacStyleSheet.sty) and keep all the styling commands there. For instance, I created a new command "drawlogo" inside IsaacStyleSheet, which draws USYD logo with lower opacity and dimension resized relative to page size. (width = 0.7, height=0.6). To use the command, I need to upload the stylesheet by including usepackage{IsaacStyleSheet}. Other commands I have implemented to the stylesheet includes... 
+
+1) "makeHorizLine": draws a horizontal line with the specified color (1st parameter)
+\makeHorizLine{red}
+\makeHorizLine{yellow}
+\makeHorizLine{green}
+\makeHorizLine{blue}
+
+2) "colorText" : prints the text(1st parameter) according to the specified color(2nd parameter)
+\colorText{I'm cyan}{cyan}, \colorText{Hi I'm magenta}{magenta}, \colorText{Hellooo I'm teal}{teal}, \colorText{And I'm Olive}{olive}
+
+3) "listGroupMembers: prints a table with our group members' name, age, and hobby each in the specified backround colors(3  parameters)
+\listGroupMembers{lime}{orange}{pink}
+
+\subsubsection{3. Git - }
+working on it..
+
 
 
 \subsection{Jake Lewitton}
@@ -289,11 +278,9 @@ A custom command is one that the document writer decides on and creates to make 
 A\BoldandItalic{} is a set of commands that are frequently used and by creating macros, one can save a lot of time by simply referring to the\BoldandItalic{} instead of re-writing all those commands again. In addition, by using\BoldandItalic{}, user can easily apply changes to the document. For example, if you refer to a name of a city in the document many times by typing the name out or copy paste every time and later find out that you got the spelling wrong and want to change all the names in the document, then changing those names would be taking quite an amount of time. However, if you use macro instead, you can easily change the name in the macro and the change will be applied to the whole document which is totally way faster. For my demostration, I created a macro which make the text "macro" to be underlined, bold and italic  as you can see in this paragraph.
 
 Hyperlinks: With hyperlinks, user can make their photos, texts,.. clickable in latex which is useful since reader can just click and they will be taken to the information that they are actually interested in. I have used hyperlinks in latex, words documents and HTML files and they are always a crucial element to make sure that my documents are informative. For example, I am writing about some kind of turtles and would like to show reader to some videos on youtube for a better visualization so I can use hyperlinks to save space and keep the document as tidy as possible. To use hyperlink, i added hyperref package.
-(I suppose i need to include it so tutor can assess the Git skills part) This is the link to my github: % \href{https://github.com/Kyle240/testing.git}{My github}
+(I suppose i need to include it so tutor can assess the Git skills part) This is the link to my github: \href{https://github.com/Kyle240/testing.git}{My github}
 
 \subsubsection{ Git: Tags and Reseting}
-
-
 
 Tags: Git is able to tag specific points in a repository’s history. Git tags are used to capture the specific point in the history that is further used to point to a released version. A tag does not change like a branch. They don’t have a further history of commits after being created. Git has two different kinds of tags, annotated and lightweight tags. Annotated tags are saved as full objects in the Git database. They store some extra information such as the tagger’s name, email and date. Lightweight tags are just bookmarks to a commit, they are just a name and a pointer to a commit which is great for producing quick links to relevant commits.  
 About the actual use, I created an annotated tag name v3.0 using git tag -a “v3.0” -m “message” , check it again by git show v3.0  and I can show list of tags using git tag. 
