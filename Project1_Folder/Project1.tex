@@ -53,7 +53,7 @@
         \hline
         Isaac Kim & 510603294 & Task 2, 3 \\
         Jake Lewitton & 510440541 & Task 2, 3 \\
-        Tan Ky le & 510565486 & Level 3 \\
+        Tan Ky le & 510565486 & Level 3,4 \\
         \hline
     \end{tabular}
 }\\[0.75cm]
@@ -316,12 +316,46 @@ Hyperlinks: With hyperlinks, user can make their photos, texts,.. clickable in l
 
 \subsubsection{ Git: Tags and Reseting}
 
-Tags: Git is able to tag specific points in a repository’s history. Git tags are used to capture the specific point in the history that is further used to point to a released version. A tag does not change like a branch. They don’t have a further history of commits after being created. Git has two different kinds of tags, annotated and lightweight tags. Annotated tags are saved as full objects in the Git database. They store some extra information such as the tagger’s name, email and date. Lightweight tags are just bookmarks to a commit, they are just a name and a pointer to a commit which is great for producing quick links to relevant commits.  
-About the actual use, I created an annotated tag name v3.0 using git tag -a “v3.0” -m “message” , check it again by git show v3.0  and I can show list of tags using git tag. 
+Tags: Git is able to tag specific points in a repository’s history. Git tags are used to capture the specific point in the history that is further used to point to a released version. A tag does not change like a branch. They don’t have a further history of commits after being created. Git has two different kinds of tags, annotated and lightweight tags. Annotated tags are saved as full objects in the Git database. They store some extra information such as the tagger’s name, email and date. Lightweight tags are just bookmarks to a commit, they are just a name and a pointer to a commit which is great for producing quick links to relevant commits. About the actual use, I created an annotated tag name v3.0 using git tag -a “v3.0” -m “message” , check it again by git show v3.0  and I can show list of tags using git tag. 
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Picture1.png}
+\caption{Creating an annotated tag}
+\label{fig}
+\end{figure}
 
 Reset: Git reset is a versatile tool to undo changes. It has three primary forms of invocation which correspond to the following command line arguments --soft, --mixed, --hard. --hard is the most frequently used option but also most dangerous, any progress in the staging index and working directory will be lost. --mixed is the default mode, any changes undone from the staging index  are moved to  the working directory. --soft left the staging index and working directory untouched.
 About the actual use, I will demonstrate how I used the –hard command: At first I had file 2.py in my folder of which content was print(3),I then created a new empty file which was 1.py . Then I git add only 2.py and changed it's code to print(2). Last I use git reset –hard, after that the 1.py file will be deleted and the content of 2.py will be print(3) again.
 1.py was removed since it was in the working directory and undoing the change led to it being deleted. 2.py was in staging phase, so the change made to it was undone as well and it’s content went back to being print(3) which is the same as in the beginning.
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Picture2.png}
+\caption{Initial files}
+\label{fig}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Picture3.png}
+\caption{2.py content}
+\label{fig}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Picture4.png}
+\caption{New file 1.py created}
+\label{fig}
+\end{figure}
+
+\begin{figure}[!h]
+\centering
+\includegraphics[width=0.45\columnwidth]{Picture5.png}
+\caption{2.py changed}
+\label{fig}
+\end{figure}
 
 \subsubsection{ Interactions}
 React Native and Objective-C: React native is a cross-functional programming language for building and developing applications on multiple platforms such as IOS, Android operating 
@@ -350,9 +384,16 @@ Your text goes here
 
 Your text goes here
 
-\subsection{Advanced Knowledge: add student 3 name here}
+\subsection{Tan Ky le}
 
-Your text goes here
+\subsubsection{Strength}
+Instagram tech stack has consistently interactive components (as I mentioned in level 3 interactions) which makes the stack itself a better structure. Django is one of the best web structures and has made it simpler for designers to assemble plenty of web applications, website pages, and web administrations. Instagram has a lightweight interface for promoting posts called Post Promote and implementing it by React Native has created fantastic improvements on startup times and user experience\cite{ky8}. Objective C is stable and there’s no need to spend money on migrating if you have developed your app on Objective C which saves a lot of money. Both PostgreSQL and Cassandra have mature replication frameworks that fit as a globally consistent data store. Celery supports multiple message brokers and RabbitMQ is quite the best choice for Instagram since it guarantees message delivery, is fault-tolerant, supports synchronous replication and it’s superb for real-time applications\cite{ky9}.
+\subsubsection{Limitation}
+Unlike most web development frameworks, Django can’t handle multiple requests simultaneously. Objective-C is syntactically verbose, complex and cannot be more stable since it is a pretty old language. React Native requires expertise on 3 different platforms which is rather complex and heavy for developers. Instagram has Shop feature for user to purchase products and since Cassandra deals with great amounts of data and many requests, transactions slow down meaning latency problem which is an issue with user experience.
+\subsubsection{Alternatives}
+Swift for Objective-C: Swift is an open-source programming language, commonly referred to as Objective-C without C\cite{ky10}. Unlike Objective-C, Swift is a quite young language which first appeared in 2014. According to Apple, it is 2.6 times faster than Objective-C language. Its syntax is generally cleaner and easier to manage. It is a priority to develop secure apps these days and Swift has a safer security which is totally a huge advantage. Though replacing Objective-C with Swift can be difficult since Instagram has been built on Objective-C and has huge codebase of several million lines, Swift can be a better option if Instagram wants a faster, cleaner language in their stack which also promotes security better than Objective-C.
+
+Flutter for React Native: As mentioned above, React Native requires developer expertise in 3 platforms. With Flutter, developers can write just one codebase for two applications – covering both iOS and Android platforms\cite{ky11}. In addition, Flutter makes faster apps and needs less testing compared to React Native. Therefore, I think Flutter can be a great alternative for React Native in case Instagram wants to reduce the complexness of development process.
 
 \subsection{Advanced Knowledge: add student 4 name here}
 

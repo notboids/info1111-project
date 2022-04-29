@@ -50,6 +50,102 @@ jake1}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Atlassian}%
+}{%
+{Atlassian}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+isaac12}
+\APACinsertmetastar {%
+isaac12}%
+\begin{APACrefauthors}%
+{Atlassian}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Git Revert (6th Edition).} {{APA} git revert (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.atlassian.com/git/tutorials/undoing-changes/git-revert}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Atlassian}%
+}{%
+{Atlassian}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+jake10}
+\APACinsertmetastar {%
+jake10}%
+\begin{APACrefauthors}%
+{Atlassian}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} .gitignore (6th Edition).} {{APA} .gitignore (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.atlassian.com/git/tutorials/saving-changes/gitignore}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Atlassian}%
+}{%
+{Atlassian}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+jake9}
+\APACinsertmetastar {%
+jake9}%
+\begin{APACrefauthors}%
+{Atlassian}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} git rebase (6th Edition).} {{APA} git rebase (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Atlassian}%
+}{%
+{Atlassian}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {3}}}}}]{%
+jake8}
+\APACinsertmetastar {%
+jake8}%
+\begin{APACrefauthors}%
+{Atlassian}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {3}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} Merging vs. Rebasing (6th Edition).} {{APA} merging vs.
+  rebasing (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.atlassian.com/git/tutorials/merging-vs-rebasing}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Auditboard}%
 }{%
 {Auditboard}%
@@ -94,6 +190,30 @@ jake3}%
 \newblock
 \APACrefnote{See
   \url{https://www.cyber.gov.au/acsc/view-all-content/threats/malware}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Bartosz Skuza}%
+}{%
+{Bartosz Skuza}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky11}
+\APACinsertmetastar {%
+ky11}%
+\begin{APACrefauthors}%
+{Bartosz Skuza}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Flutter vs. React Native – What to Choose in 2022?}
+  {{APA} flutter vs. react native – what to choose in 2022?}
+\newblock
+\APACrefnote{See
+  \url{https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose-in-2021}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -190,6 +310,52 @@ jake5}%
 \newblock
 \APACrefnote{See
   \url{https://www.techtarget.com/searchdatamanagement/definition/data-management}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Edidiong Etuk}%
+}{%
+{Edidiong Etuk}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky9}
+\APACinsertmetastar {%
+ky9}%
+\begin{APACrefauthors}%
+{Edidiong Etuk}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Why You Should use Celery with RabbitMQ.} {{APA} why you
+  should use celery with rabbitmq.}
+\newblock
+\APACrefnote{See
+  \url{https://www.section.io/engineering-education/why-you-should-use-celery-with-rabbitmq/}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Emmanuel Ighosewe}%
+}{%
+{Emmanuel Ighosewe}%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+ky10}
+\APACinsertmetastar {%
+ky10}%
+\begin{APACrefauthors}%
+{Emmanuel Ighosewe}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {{APA} Swift Vs Objective C.} {{APA} swift vs objective c.}
+\newblock
+\APACrefnote{See \url{https://upstack.co/knowledge/swift-vs-objective-c}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -290,6 +456,30 @@ ky3}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Instagram Engineering}%
+}{%
+{Instagram Engineering}%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+ky8}
+\APACinsertmetastar {%
+ky8}%
+\begin{APACrefauthors}%
+{Instagram Engineering}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {{APA} React Native at Instagram.} {{APA} react native at
+  instagram.}
+\newblock
+\APACrefnote{See
+  \url{https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Interpol}%
 }{%
 {Interpol}%
@@ -361,6 +551,77 @@ ky1}%
 \newblock
 \APACrefnote{See
   \url{https://www.jobsity.com/blog/6-reasons-c-is-still-in-use-today}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Netflix}%
+}{%
+{Netflix}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac11}
+\APACinsertmetastar {%
+isaac11}%
+\begin{APACrefauthors}%
+{Netflix}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} Completing the Netflix Cloud Migration (6th Edition).}
+  {{APA} completing the netflix cloud migration (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://about.netflix.com/en/news/completing-the-netflix-cloud-migration}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Overleaf}%
+}{%
+{Overleaf}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+jake12}
+\APACinsertmetastar {%
+jake12}%
+\begin{APACrefauthors}%
+{Overleaf}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} Commands (6th Edition).} {{APA} commands (6th edition).}
+\newblock
+\APACrefnote{See \url{https://www.overleaf.com/learn/latex/Commands}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Overleaf}%
+}{%
+{Overleaf}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+jake11}
+\APACinsertmetastar {%
+jake11}%
+\begin{APACrefauthors}%
+{Overleaf}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} Cross referencing sections, equations and floats (6th
+  Edition).} {{APA} cross referencing sections, equations and floats (6th
+  edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.overleaf.com/learn/latex/Cross_referencing_sections2C_equations_and_floats}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -494,7 +755,7 @@ isaac4}%
 {TechTarget}%
 }{%
 {\protect \APACyear {2022}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 isaac6}
 \APACinsertmetastar {%
 isaac6}%
@@ -503,13 +764,60 @@ isaac6}%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2022}{}{}.
+\APACrefYearMonthDay{2022{\protect \BCnt {1}}}{}{}.
 \newblock
 \APACrefbtitle {{APA} Big Data Analytics (6th Edition).} {{APA} big data
   analytics (6th edition).}
 \newblock
 \APACrefnote{See
   \url{https://www.techtarget.com/searchbusinessanalytics/definition/big-data-analytics}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{TechTarget}%
+}{%
+{TechTarget}%
+}{%
+{\protect \APACyear {2022}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+isaac9}
+\APACinsertmetastar {%
+isaac9}%
+\begin{APACrefauthors}%
+{TechTarget}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {{APA} MongoDB (6th Edition).} {{APA} mongodb (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.techtarget.com/searchdatamanagement/definition/MongoDB}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{tutorialsteacher}%
+}{%
+{tutorialsteacher}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+isaac10}
+\APACinsertmetastar {%
+isaac10}%
+\begin{APACrefauthors}%
+{tutorialsteacher}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {{APA} What is AngularJS (6th Edition).} {{APA} what is
+  angularjs (6th edition).}
+\newblock
+\APACrefnote{See
+  \url{https://www.tutorialsteacher.com/angularjs/what-is-angularjs}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

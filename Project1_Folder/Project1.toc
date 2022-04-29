@@ -1,0 +1,77 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1.}Level 1: Basic Skills}{2}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1.}Developing industry skills}{2}{subsection.0.1.1}%
+\contentsline {subsubsection}{1. Work on yearly projects}{2}{subsubsection*.1}%
+\contentsline {subsubsection}{2. Learn new skills every month}{2}{subsubsection*.2}%
+\contentsline {subsubsection}{3. Attend tech events and conferences}{2}{subsubsection*.3}%
+\contentsline {subsubsection}{4. Focus on practical skills}{2}{subsubsection*.4}%
+\contentsline {subsubsection}{5. Work to enhance problem solving skills}{2}{subsubsection*.5}%
+\contentsline {subsection}{\numberline {1.2.}Skills: Isaac Kim : Data Science}{3}{subsection.0.1.2}%
+\contentsline {subsubsection}{1. Statistics}{3}{subsubsection*.6}%
+\contentsline {subsubsection}{2. Programming Knowldege}{3}{subsubsection*.7}%
+\contentsline {subsubsection}{3. Data Wrangling}{3}{subsubsection*.8}%
+\contentsline {subsubsection}{4. Data Visualisation}{3}{subsubsection*.9}%
+\contentsline {subsubsection}{5. Machine Learning}{4}{subsubsection*.10}%
+\contentsline {subsubsection}{6. Deep learning}{4}{subsubsection*.11}%
+\contentsline {subsubsection}{7. Big Data Anaylsis}{4}{subsubsection*.12}%
+\contentsline {subsubsection}{8. Story-telling Skill}{4}{subsubsection*.13}%
+\contentsline {subsubsection}{Teamwork}{4}{subsubsection*.14}%
+\contentsline {subsection}{\numberline {1.3.}Skills: Tan Ky Le : Software Development}{5}{subsection.0.1.3}%
+\contentsline {subsubsection}{1.Programming languages}{5}{subsubsection*.15}%
+\contentsline {subsubsection}{2.Debugging and testing}{5}{subsubsection*.16}%
+\contentsline {subsubsection}{3.Algorithms and data structures}{5}{subsubsection*.17}%
+\contentsline {subsubsection}{4.Version control tool (Git)}{5}{subsubsection*.18}%
+\contentsline {subsubsection}{5.Teamwork skills}{5}{subsubsection*.19}%
+\contentsline {subsubsection}{6.Time management}{6}{subsubsection*.20}%
+\contentsline {subsubsection}{7.Self-learning ability}{6}{subsubsection*.21}%
+\contentsline {subsubsection}{8.Logical thinking}{6}{subsubsection*.22}%
+\contentsline {subsection}{\numberline {1.4.}Skills: Jake Lewitton : Cyber Security}{6}{subsection.0.1.4}%
+\contentsline {subsubsection}{1.Encryption}{6}{subsubsection*.23}%
+\contentsline {subsubsection}{2.Firewall Configuration}{6}{subsubsection*.24}%
+\contentsline {subsubsection}{3.Antivirus/Antimalware Software}{7}{subsubsection*.25}%
+\contentsline {subsubsection}{4.Security Auditing}{7}{subsubsection*.26}%
+\contentsline {subsubsection}{5.Data Management}{7}{subsubsection*.27}%
+\contentsline {subsubsection}{6.Digital Forensics}{7}{subsubsection*.28}%
+\contentsline {subsubsection}{7.Identity and Access Management}{7}{subsubsection*.29}%
+\contentsline {subsubsection}{8.Attention to detail}{8}{subsubsection*.30}%
+\contentsline {section}{\numberline {2.}Level 2: Basic Technology}{9}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1.}Netflix tech stack - MEAN: Isaac Kim}{9}{subsection.0.2.1}%
+\contentsline {subsubsection}{1. MongoDB}{9}{subsubsection*.31}%
+\contentsline {subsubsection}{2. ExpressJS}{9}{subsubsection*.32}%
+\contentsline {subsubsection}{3. AngularJS}{9}{subsubsection*.33}%
+\contentsline {subsubsection}{4. Node.js}{9}{subsubsection*.34}%
+\contentsline {subsection}{\numberline {2.2.}Microsoft Tech Stack: Jake Lewitton}{9}{subsection.0.2.2}%
+\contentsline {subsubsection}{1. HTML}{9}{subsubsection*.35}%
+\contentsline {subsubsection}{2. CSS}{10}{subsubsection*.36}%
+\contentsline {subsubsection}{3. JavaScript}{10}{subsubsection*.37}%
+\contentsline {subsection}{\numberline {2.3.} Instagram Tech Stack: Tan Ky Le}{10}{subsection.0.2.3}%
+\contentsline {subsubsection}{1. Django}{10}{subsubsection*.38}%
+\contentsline {subsubsection}{2. Objective-C}{10}{subsubsection*.39}%
+\contentsline {subsubsection}{3. React Native}{10}{subsubsection*.40}%
+\contentsline {subsubsection}{4. Celery and RabbitMQ}{10}{subsubsection*.41}%
+\contentsline {subsubsection}{5. PostgreSQL and Cassandra}{11}{subsubsection*.42}%
+\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{12}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1.}Advanced features: Isaac Kim}{12}{subsection.0.3.1}%
+\contentsline {subsubsection}{1. \LaTeX \ - Floating figures}{12}{subsubsection*.43}%
+\contentsline {subsubsection}{2. \LaTeX \ - Style Sheet}{13}{subsubsection*.44}%
+\contentsline {subsubsection}{3. Git - Revert}{13}{subsubsection*.45}%
+\contentsline {subsubsection}{4. Git - Automated Merges}{13}{subsubsection*.46}%
+\contentsline {subsubsection}{Interactions within MEAN}{14}{subsubsection*.47}%
+\contentsline {subsection}{\numberline {3.2.}Jake Lewitton}{15}{subsection.0.3.2}%
+\contentsline {subsubsection}{Git: Rebasing files}{15}{subsubsection*.48}%
+\contentsline {subsubsection}{Git: Ignoring files}{15}{subsubsection*.49}%
+\contentsline {subsubsection}{Latex: Cross-referencing}{16}{subsubsection*.50}%
+\contentsline {subsubsection}{Latex: Custom commands}{16}{subsubsection*.51}%
+\contentsline {subsection}{\numberline {3.3.}Tan Ky Le}{17}{subsection.0.3.3}%
+\contentsline {subsubsection}{ Latex: Macro and Hyperlink}{17}{subsubsection*.52}%
+\contentsline {subsubsection}{ Git: Tags and Reseting}{17}{subsubsection*.53}%
+\contentsline {subsubsection}{ Interactions}{18}{subsubsection*.54}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{19}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{19}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{19}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3.}Tan Ky le}{19}{subsection.0.4.3}%
+\contentsline {subsubsection}{Strength}{19}{subsubsection*.55}%
+\contentsline {subsubsection}{Limitation}{19}{subsubsection*.56}%
+\contentsline {subsubsection}{Alternatives}{20}{subsubsection*.57}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{20}{subsection.0.4.4}%
+\contentsline {chapter}{References}{21}{chapter*.58}%
