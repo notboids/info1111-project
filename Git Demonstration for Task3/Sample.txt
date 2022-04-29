@@ -1,3 +1,0 @@
-This is version A of this text.
-Version A deos not contain any errors :D
-It is commited by branch personA.
