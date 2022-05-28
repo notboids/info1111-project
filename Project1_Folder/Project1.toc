@@ -62,16 +62,22 @@
 \contentsline {subsubsection}{Git: Ignoring files}{15}{subsubsection*.49}%
 \contentsline {subsubsection}{Latex: Cross-referencing}{16}{subsubsection*.50}%
 \contentsline {subsubsection}{Latex: Custom commands}{16}{subsubsection*.51}%
+\contentsline {subsubsection}{Interactions}{17}{subsubsection*.52}%
 \contentsline {subsection}{\numberline {3.3.}Tan Ky Le}{17}{subsection.0.3.3}%
-\contentsline {subsubsection}{ Latex: Macro and Hyperlink}{17}{subsubsection*.52}%
-\contentsline {subsubsection}{ Git: Tags and Reseting}{17}{subsubsection*.53}%
-\contentsline {subsubsection}{ Interactions}{18}{subsubsection*.54}%
-\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{19}{section.0.4}%
-\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: add student 1 name here}{19}{subsection.0.4.1}%
-\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{19}{subsection.0.4.2}%
-\contentsline {subsection}{\numberline {4.3.}Tan Ky le}{19}{subsection.0.4.3}%
-\contentsline {subsubsection}{Strength}{19}{subsubsection*.55}%
-\contentsline {subsubsection}{Limitation}{19}{subsubsection*.56}%
-\contentsline {subsubsection}{Alternatives}{20}{subsubsection*.57}%
-\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{20}{subsection.0.4.4}%
-\contentsline {chapter}{References}{21}{chapter*.58}%
+\contentsline {subsubsection}{ Latex: Macro and Hyperlink}{17}{subsubsection*.53}%
+\contentsline {subsubsection}{ Git: Tags and Reseting}{17}{subsubsection*.54}%
+\contentsline {subsubsection}{ Interactions}{19}{subsubsection*.55}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{20}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: Isaac Kim}{20}{subsection.0.4.1}%
+\contentsline {subsubsection}{Strengths and Limitations of MEAN}{20}{subsubsection*.56}%
+\contentsline {subsubsection}{Alternative Tech Stack for MEAN}{20}{subsubsection*.57}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: Jake Lewitton}{20}{subsection.0.4.2}%
+\contentsline {subsubsection}{Strengths}{20}{subsubsection*.58}%
+\contentsline {subsubsection}{Limitations}{21}{subsubsection*.59}%
+\contentsline {subsubsection}{Alternatives}{21}{subsubsection*.60}%
+\contentsline {subsection}{\numberline {4.3.}Tan Ky le}{21}{subsection.0.4.3}%
+\contentsline {subsubsection}{Strength}{21}{subsubsection*.61}%
+\contentsline {subsubsection}{Limitation}{22}{subsubsection*.62}%
+\contentsline {subsubsection}{Alternatives}{22}{subsubsection*.63}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{22}{subsection.0.4.4}%
+\contentsline {chapter}{References}{23}{chapter*.64}%
